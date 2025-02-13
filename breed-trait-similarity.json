@@ -1,0 +1,3539 @@
+{
+	"breed_trait_similarity": {
+	  "Labrador Retriever": {
+		"most_similar_traits": [
+		  {"trait": "retrieves from water eagerly", "score": 98},
+		  {"trait": "affectionate with family", "score": 97},
+		  {"trait": "sociable with all people", "score": 95},
+		  {"trait": "tolerant of handling", "score": 95},
+		  {"trait": "great family companion", "score": 95},
+		  {"trait": "biddable and eager to please", "score": 94},
+		  {"trait": "highly trainable", "score": 93},
+		  {"trait": "energetic and active", "score": 90},
+		  {"trait": "swims in cold water", "score": 90},
+		  {"trait": "easygoing and relaxed", "score": 88}
+		],
+		"least_similar_traits": [
+		  {"trait": "aloof with strangers", "score": 15},
+		  {"trait": "suspicious of strangers", "score": 18},
+		  {"trait": "territorial and protective", "score": 20},
+		  {"trait": "guards property silently", "score": 22},
+		  {"trait": "independent and self-reliant", "score": 25},
+		  {"trait": "reserved with strangers", "score": 25},
+		  {"trait": "standoffish with new people", "score": 28},
+		  {"trait": "bossy and demanding", "score": 30},
+		  {"trait": "fearful of new people", "score": 30},
+		  {"trait": "vigilant and alert", "score": 32}
+		]
+	  },
+	  "Golden Retriever": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 98},
+		  {"trait": "great family companion", "score": 97},
+		  {"trait": "sociable with all people", "score": 96},
+		  {"trait": "tolerant of handling", "score": 95},
+		  {"trait": "biddable and eager to please", "score": 94},
+		  {"trait": "highly trainable", "score": 93},
+		  {"trait": "easygoing and relaxed", "score": 92},
+		  {"trait": "patient with children", "score": 91},
+		  {"trait": "retrieves from water eagerly", "score": 90},
+		  {"trait": "loves everyone equally", "score": 90}
+		],
+		"least_similar_traits": [
+		  {"trait": "aloof with strangers", "score": 10},
+		  {"trait": "suspicious of strangers", "score": 12},
+		  {"trait": "territorial and protective", "score": 15},
+		  {"trait": "guards property silently", "score": 18},
+		  {"trait": "independent and self-reliant", "score": 20},
+		  {"trait": "reserved with strangers", "score": 20},
+		  {"trait": "standoffish with new people", "score": 22},
+		  {"trait": "bossy and demanding", "score": 25},
+		  {"trait": "fearful of new people", "score": 25},
+		  {"trait": "stubborn and strong-willed", "score": 30}
+		]
+	  },
+	  "German Shorthaired Pointer": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 97},
+		  {"trait": "vigorous and athletic", "score": 96},
+		  {"trait": "hunts birds from brush", "score": 95},
+		  {"trait": "persistent and determined", "score": 94},
+		  {"trait": "focused on tasks", "score": 93},
+		  {"trait": "highly trainable", "score": 92},
+		  {"trait": "biddable and eager to please", "score": 90},
+		  {"trait": "needs constant exercise", "score": 90},
+		  {"trait": "great family companion", "score": 85},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Brittany Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "hunts birds from brush", "score": 93},
+		  {"trait": "persistent and determined", "score": 92},
+		  {"trait": "focused on tasks", "score": 91},
+		  {"trait": "highly trainable", "score": 90},
+		  {"trait": "biddable and eager to please", "score": 88},
+		  {"trait": "needs constant exercise", "score": 88},
+		  {"trait": "mischievous and playful", "score": 85},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "English Springer Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "hunts birds from brush", "score": 93},
+		  {"trait": "persistent and determined", "score": 92},
+		  {"trait": "focused on tasks", "score": 91},
+		  {"trait": "highly trainable", "score": 90},
+		  {"trait": "biddable and eager to please", "score": 88},
+		  {"trait": "needs constant exercise", "score": 88},
+		  {"trait": "mischievous and playful", "score": 85},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Cocker Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "gentle with small children", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "mischievous and playful", "score": 92},
+		  {"trait": "biddable and eager to please", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "sociable with all people", "score": 85},
+		  {"trait": "tolerant of handling", "score": 85},
+		  {"trait": "highly trainable", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Vizsla": {
+		"most_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 95},
+		  {"trait": "needy for attention", "score": 94},
+		  {"trait": "affectionate with family", "score": 93},
+		  {"trait": "great family companion", "score": 92},
+		  {"trait": "energetic and active", "score": 90},
+		  {"trait": "vigorous and athletic", "score": 88},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "biddable and eager to please", "score": 87},
+		  {"trait": "sensitive to criticism", "score": 85},
+		  {"trait": "mischievous and playful", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "independent and self-reliant", "score": 10},
+		  {"trait": "aloof with strangers", "score": 15},
+		  {"trait": "reserved with strangers", "score": 18},
+		  {"trait": "standoffish with new people", "score": 20},
+		  {"trait": "guards property silently", "score": 22},
+		  {"trait": "territorial and protective", "score": 25},
+		  {"trait": "suspicious of strangers", "score": 28},
+		  {"trait": "confident and self-assured", "score": 30},
+		  {"trait": "bold and fearless", "score": 32},
+		  {"trait": "stoic and unflappable", "score": 35}
+		]
+	  },
+	  "Weimaraner": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "needs constant exercise", "score": 93},
+		  {"trait": "persistent and determined", "score": 92},
+		  {"trait": "focused on tasks", "score": 91},
+		  {"trait": "highly trainable", "score": 90},
+		  {"trait": "biddable and eager to please", "score": 88},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "mischievous and playful", "score": 85},
+		  {"trait": "confident and self-assured", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Chesapeake Bay Retriever": {
+		"most_similar_traits": [
+		  {"trait": "retrieves from water eagerly", "score": 98},
+		  {"trait": "swims in cold water", "score": 97},
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "protective of family", "score": 93},
+		  {"trait": "territorial and protective", "score": 92},
+		  {"trait": "aloof with strangers", "score": 90},
+		  {"trait": "reserved with strangers", "score": 88},
+		  {"trait": "independent and self-reliant", "score": 85},
+		  {"trait": "persistent and determined", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "sociable with all people", "score": 10},
+		  {"trait": "gregarious and outgoing", "score": 12},
+		  {"trait": "loves meeting strangers", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "docile and submissive", "score": 40}
+		]
+	  },
+	  "English Setter": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "gentle with small children", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "mischievous and playful", "score": 92},
+		  {"trait": "biddable and eager to please", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "sociable with all people", "score": 85},
+		  {"trait": "tolerant of handling", "score": 85},
+		  {"trait": "highly trainable", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Irish Setter": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 96},
+		  {"trait": "vigorous and athletic", "score": 95},
+		  {"trait": "mischievous and playful", "score": 94},
+		  {"trait": "affectionate with family", "score": 93},
+		  {"trait": "great family companion", "score": 92},
+		  {"trait": "needs constant exercise", "score": 90},
+		  {"trait": "biddable and eager to please", "score": 88},
+		  {"trait": "highly trainable", "score": 87},
+		  {"trait": "adaptable to new situations", "score": 85},
+		  {"trait": "sociable with all people", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Gordon Setter": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 94},
+		  {"trait": "loyal and devoted", "score": 93},
+		  {"trait": "vigilant and alert", "score": 92},
+		  {"trait": "reserved with strangers", "score": 90},
+		  {"trait": "protective of family", "score": 88},
+		  {"trait": "highly trainable", "score": 87},
+		  {"trait": "intelligent and quick to learn", "score": 85},
+		  {"trait": "adaptable to new situations", "score": 83},
+		  {"trait": "needs mental stimulation", "score": 80},
+		  {"trait": "energetic and active", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "sociable with all people", "score": 10},
+		  {"trait": "gregarious and outgoing", "score": 12},
+		  {"trait": "loves meeting strangers", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "docile and submissive", "score": 40}
+		]
+	  },
+	  "Pointer": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 97},
+		  {"trait": "vigorous and athletic", "score": 96},
+		  {"trait": "hunts birds from brush", "score": 95},
+		  {"trait": "persistent and determined", "score": 94},
+		  {"trait": "focused on tasks", "score": 93},
+		  {"trait": "highly trainable", "score": 92},
+		  {"trait": "biddable and eager to please", "score": 90},
+		  {"trait": "needs constant exercise", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 85},
+		  {"trait": "confident and self-assured", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Nova Scotia Duck Tolling Retriever": {
+		"most_similar_traits": [
+		  {"trait": "retrieves from water eagerly", "score": 96},
+		  {"trait": "intelligent and quick to learn", "score": 95},
+		  {"trait": "highly trainable", "score": 94},
+		  {"trait": "energetic and active", "score": 93},
+		  {"trait": "vigorous and athletic", "score": 92},
+		  {"trait": "needs mental stimulation", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "persistent and determined", "score": 87},
+		  {"trait": "mischievous and playful", "score": 85},
+		  {"trait": "focused on tasks", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "English Cocker Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "gentle with small children", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "mischievous and playful", "score": 92},
+		  {"trait": "biddable and eager to please", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "sociable with all people", "score": 85},
+		  {"trait": "tolerant of handling", "score": 85},
+		  {"trait": "highly trainable", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Flat-Coated Retriever": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 98},
+		  {"trait": "great family companion", "score": 97},
+		  {"trait": "sociable with all people", "score": 96},
+		  {"trait": "tolerant of handling", "score": 95},
+		  {"trait": "biddable and eager to please", "score": 94},
+		  {"trait": "highly trainable", "score": 93},
+		  {"trait": "easygoing and relaxed", "score": 92},
+		  {"trait": "patient with children", "score": 91},
+		  {"trait": "retrieves from water eagerly", "score": 90},
+		  {"trait": "mischievous and playful", "score": 90}
+		],
+		"least_similar_traits": [
+		  {"trait": "aloof with strangers", "score": 10},
+		  {"trait": "suspicious of strangers", "score": 12},
+		  {"trait": "territorial and protective", "score": 15},
+		  {"trait": "guards property silently", "score": 18},
+		  {"trait": "independent and self-reliant", "score": 20},
+		  {"trait": "reserved with strangers", "score": 20},
+		  {"trait": "standoffish with new people", "score": 22},
+		  {"trait": "bossy and demanding", "score": 25},
+		  {"trait": "fearful of new people", "score": 25},
+		  {"trait": "stubborn and strong-willed", "score": 30}
+		]
+	  },
+	  "Spinone Italiano": {
+		"most_similar_traits": [
+		  {"trait": "patient with children", "score": 95},
+		  {"trait": "gentle with small children", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "affectionate with family", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "sociable with all people", "score": 88},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "biddable and eager to please", "score": 85},
+		  {"trait": "highly trainable", "score": 83},
+		  {"trait": "adaptable to new situations", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Welsh Springer Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "hunts birds from brush", "score": 93},
+		  {"trait": "persistent and determined", "score": 92},
+		  {"trait": "focused on tasks", "score": 91},
+		  {"trait": "highly trainable", "score": 90},
+		  {"trait": "biddable and eager to please", "score": 88},
+		  {"trait": "needs constant exercise", "score": 88},
+		  {"trait": "mischievous and playful", "score": 85},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Wirehaired Pointing Griffon": {
+		"most_similar_traits": [
+		  {"trait": "persistent and determined", "score": 95},
+		  {"trait": "focused on tasks", "score": 94},
+		  {"trait": "vigorous and athletic", "score": 93},
+		  {"trait": "energetic and active", "score": 92},
+		  {"trait": "hunts birds from brush", "score": 90},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "adaptable to new situations", "score": 87},
+		  {"trait": "biddable and eager to please", "score": 85},
+		  {"trait": "needs constant exercise", "score": 85},
+		  {"trait": "intelligent and quick to learn", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Field Spaniel": {
+		"most_similar_traits": [
+		  {"trait": "gentle with small children", "score": 95},
+		  {"trait": "easygoing and relaxed", "score": 94},
+		  {"trait": "affectionate with family", "score": 93},
+		  {"trait": "patient with children", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "sociable with all people", "score": 88},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "biddable and eager to please", "score": 85},
+		  {"trait": "highly trainable", "score": 83},
+		  {"trait": "adaptable to new situations", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "German Shepherd": {
+		"most_similar_traits": [
+		  {"trait": "highly trainable", "score": 98},
+		  {"trait": "intelligent and quick to learn", "score": 97},
+		  {"trait": "vigilant and alert", "score": 96},
+		  {"trait": "protective of family", "score": 95},
+		  {"trait": "territorial and protective", "score": 94},
+		  {"trait": "confident and self-assured", "score": 93},
+		  {"trait": "bold and fearless", "score": 92},
+		  {"trait": "adaptable to new situations", "score": 90},
+		  {"trait": "focused on tasks", "score": 90},
+		  {"trait": "persistent and determined", "score": 88}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Rottweiler": {
+		"most_similar_traits": [
+		  {"trait": "territorial and protective", "score": 97},
+		  {"trait": "protective of family", "score": 96},
+		  {"trait": "vigilant and alert", "score": 95},
+		  {"trait": "confident and self-assured", "score": 94},
+		  {"trait": "bold and fearless", "score": 93},
+		  {"trait": "aloof with strangers", "score": 92},
+		  {"trait": "reserved with strangers", "score": 90},
+		  {"trait": "independent and self-reliant", "score": 88},
+		  {"trait": "highly trainable", "score": 87},
+		  {"trait": "intelligent and quick to learn", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Doberman Pinscher": {
+		"most_similar_traits": [
+		  {"trait": "vigilant and alert", "score": 97},
+		  {"trait": "protective of family", "score": 96},
+		  {"trait": "territorial and protective", "score": 95},
+		  {"trait": "confident and self-assured", "score": 94},
+		  {"trait": "bold and fearless", "score": 93},
+		  {"trait": "highly trainable", "score": 92},
+		  {"trait": "intelligent and quick to learn", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "focused on tasks", "score": 87},
+		  {"trait": "persistent and determined", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Great Dane": {
+		"most_similar_traits": [
+		  {"trait": "gentle with small children", "score": 95},
+		  {"trait": "affectionate with family", "score": 94},
+		  {"trait": "patient with children", "score": 93},
+		  {"trait": "easygoing and relaxed", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "calm and collected", "score": 87},
+		  {"trait": "placid and peaceful", "score": 85},
+		  {"trait": "docile and submissive", "score": 83},
+		  {"trait": "adapts well to apartments", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Bernese Mountain Dog": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 96},
+		  {"trait": "gentle with small children", "score": 95},
+		  {"trait": "patient with children", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "great family companion", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "calm and collected", "score": 88},
+		  {"trait": "placid and peaceful", "score": 87},
+		  {"trait": "docile and submissive", "score": 85},
+		  {"trait": "works in freezing conditions", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Siberian Husky": {
+		"most_similar_traits": [
+		  {"trait": "independent and self-reliant", "score": 97},
+		  {"trait": "stubborn and strong-willed", "score": 96},
+		  {"trait": "willful and determined", "score": 95},
+		  {"trait": "energetic and active", "score": 94},
+		  {"trait": "vigorous and athletic", "score": 93},
+		  {"trait": "needs constant exercise", "score": 92},
+		  {"trait": "escapes from any enclosure", "score": 90},
+		  {"trait": "pulls sleds in teams", "score": 90},
+		  {"trait": "works in freezing conditions", "score": 88},
+		  {"trait": "persistent and determined", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "biddable and eager to please", "score": 15},
+		  {"trait": "docile and submissive", "score": 18},
+		  {"trait": "submissive to authority", "score": 20},
+		  {"trait": "sensitive to criticism", "score": 22},
+		  {"trait": "focused on tasks", "score": 25},
+		  {"trait": "patient with children", "score": 28},
+		  {"trait": "gentle with small children", "score": 30},
+		  {"trait": "calm and collected", "score": 32}
+		]
+	  },
+	  "Boxer": {
+		"most_similar_traits": [
+		  {"trait": "mischievous and playful", "score": 96},
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "energetic and active", "score": 93},
+		  {"trait": "vigorous and athletic", "score": 92},
+		  {"trait": "patient with children", "score": 90},
+		  {"trait": "gentle with small children", "score": 88},
+		  {"trait": "tolerant of handling", "score": 87},
+		  {"trait": "needs constant exercise", "score": 85},
+		  {"trait": "boisterous and rowdy", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "aloof with strangers", "score": 10},
+		  {"trait": "suspicious of strangers", "score": 12},
+		  {"trait": "reserved with strangers", "score": 15},
+		  {"trait": "standoffish with new people", "score": 18},
+		  {"trait": "independent and self-reliant", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "placid and peaceful", "score": 28},
+		  {"trait": "lethargic and lazy", "score": 30},
+		  {"trait": "sleeps all day happily", "score": 32},
+		  {"trait": "content being lazy indoors", "score": 35}
+		]
+	  },
+	  "Portuguese Water Dog": {
+		"most_similar_traits": [
+		  {"trait": "retrieves from water eagerly", "score": 97},
+		  {"trait": "swims in cold water", "score": 96},
+		  {"trait": "highly trainable", "score": 95},
+		  {"trait": "intelligent and quick to learn", "score": 94},
+		  {"trait": "energetic and active", "score": 93},
+		  {"trait": "vigorous and athletic", "score": 92},
+		  {"trait": "adaptable to new situations", "score": 90},
+		  {"trait": "persistent and determined", "score": 88},
+		  {"trait": "focused on tasks", "score": 87},
+		  {"trait": "biddable and eager to please", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "docile and submissive", "score": 30},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 35},
+		  {"trait": "sensitive to criticism", "score": 40}
+		]
+	  },
+	  "Newfoundland": {
+		"most_similar_traits": [
+		  {"trait": "rescues drowning victims", "score": 99},
+		  {"trait": "swims in cold water", "score": 98},
+		  {"trait": "gentle with small children", "score": 97},
+		  {"trait": "patient with children", "score": 96},
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "calm and collected", "score": 93},
+		  {"trait": "placid and peaceful", "score": 92},
+		  {"trait": "docile and submissive", "score": 90},
+		  {"trait": "easygoing and relaxed", "score": 88}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Saint Bernard": {
+		"most_similar_traits": [
+		  {"trait": "searches avalanche debris", "score": 98},
+		  {"trait": "gentle with small children", "score": 97},
+		  {"trait": "patient with children", "score": 96},
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "calm and collected", "score": 93},
+		  {"trait": "placid and peaceful", "score": 92},
+		  {"trait": "docile and submissive", "score": 90},
+		  {"trait": "easygoing and relaxed", "score": 88},
+		  {"trait": "works in freezing conditions", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Alaskan Malamute": {
+		"most_similar_traits": [
+		  {"trait": "pulls sleds in teams", "score": 98},
+		  {"trait": "works in freezing conditions", "score": 97},
+		  {"trait": "energetic and active", "score": 95},
+		  {"trait": "vigorous and athletic", "score": 94},
+		  {"trait": "needs constant exercise", "score": 93},
+		  {"trait": "independent and self-reliant", "score": 92},
+		  {"trait": "stubborn and strong-willed", "score": 90},
+		  {"trait": "willful and determined", "score": 88},
+		  {"trait": "persistent and determined", "score": 87},
+		  {"trait": "escapes from any enclosure", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "biddable and eager to please", "score": 15},
+		  {"trait": "docile and submissive", "score": 18},
+		  {"trait": "submissive to authority", "score": 20},
+		  {"trait": "sensitive to criticism", "score": 22},
+		  {"trait": "focused on tasks", "score": 25},
+		  {"trait": "patient with children", "score": 28},
+		  {"trait": "gentle with small children", "score": 30},
+		  {"trait": "calm and collected", "score": 32}
+		]
+	  },
+	  "Greater Swiss Mountain Dog": {
+		"most_similar_traits": [
+		  {"trait": "pulls sleds in teams", "score": 95},
+		  {"trait": "works in freezing conditions", "score": 94},
+		  {"trait": "affectionate with family", "score": 93},
+		  {"trait": "gentle with small children", "score": 92},
+		  {"trait": "patient with children", "score": 90},
+		  {"trait": "great family companion", "score": 88},
+		  {"trait": "calm and collected", "score": 87},
+		  {"trait": "placid and peaceful", "score": 85},
+		  {"trait": "docile and submissive", "score": 83},
+		  {"trait": "tolerant of handling", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "hyperactive needs constant exercise", "score": 10},
+		  {"trait": "restless without exercise", "score": 12},
+		  {"trait": "boisterous and rowdy", "score": 15},
+		  {"trait": "excitable and energetic", "score": 20},
+		  {"trait": "vigorous and athletic", "score": 25},
+		  {"trait": "needs constant exercise", "score": 28},
+		  {"trait": "energetic and active", "score": 30},
+		  {"trait": "focused on tasks", "score": 32},
+		  {"trait": "persistent and determined", "score": 35},
+		  {"trait": "willful and determined", "score": 40}
+		]
+	  },
+	  "Standard Schnauzer": {
+		"most_similar_traits": [
+		  {"trait": "vigilant and alert", "score": 96},
+		  {"trait": "territorial and protective", "score": 95},
+		  {"trait": "protective of family", "score": 94},
+		  {"trait": "bold and fearless", "score": 93},
+		  {"trait": "confident and self-assured", "score": 92},
+		  {"trait": "highly trainable", "score": 90},
+		  {"trait": "intelligent and quick to learn", "score": 88},
+		  {"trait": "adaptable to new situations", "score": 87},
+		  {"trait": "focused on tasks", "score": 85},
+		  {"trait": "persistent and determined", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Giant Schnauzer": {
+		"most_similar_traits": [
+		  {"trait": "territorial and protective", "score": 97},
+		  {"trait": "vigilant and alert", "score": 96},
+		  {"trait": "protective of family", "score": 95},
+		  {"trait": "bold and fearless", "score": 94},
+		  {"trait": "confident and self-assured", "score": 93},
+		  {"trait": "highly trainable", "score": 92},
+		  {"trait": "intelligent and quick to learn", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "focused on tasks", "score": 87},
+		  {"trait": "persistent and determined", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Akita": {
+		"most_similar_traits": [
+		  {"trait": "territorial and protective", "score": 98},
+		  {"trait": "protective of family", "score": 97},
+		  {"trait": "aloof with strangers", "score": 96},
+		  {"trait": "reserved with strangers", "score": 95},
+		  {"trait": "independent and self-reliant", "score": 94},
+		  {"trait": "vigilant and alert", "score": 93},
+		  {"trait": "bold and fearless", "score": 92},
+		  {"trait": "confident and self-assured", "score": 90},
+		  {"trait": "stubborn and strong-willed", "score": 88},
+		  {"trait": "willful and determined", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "sociable with all people", "score": 10},
+		  {"trait": "gregarious and outgoing", "score": 12},
+		  {"trait": "loves meeting strangers", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "biddable and eager to please", "score": 35},
+		  {"trait": "docile and submissive", "score": 40}
+		]
+	  },
+	  "Samoyed": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "gentle with small children", "score": 93},
+		  {"trait": "patient with children", "score": 92},
+		  {"trait": "mischievous and playful", "score": 90},
+		  {"trait": "sociable with all people", "score": 88},
+		  {"trait": "tolerant of handling", "score": 87},
+		  {"trait": "easygoing and relaxed", "score": 85},
+		  {"trait": "works in freezing conditions", "score": 83},
+		  {"trait": "adaptable to new situations", "score": 80}
+		],
+		"least_similar_traits": [
+		  {"trait": "territorial and protective", "score": 10},
+		  {"trait": "guards property silently", "score": 12},
+		  {"trait": "protective of family", "score": 15},
+		  {"trait": "vigilant and alert", "score": 18},
+		  {"trait": "bold and fearless", "score": 20},
+		  {"trait": "confident and self-assured", "score": 22},
+		  {"trait": "reserved with strangers", "score": 25},
+		  {"trait": "aloof with strangers", "score": 28},
+		  {"trait": "standoffish with new people", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Great Pyrenees": {
+		"most_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 98},
+		  {"trait": "guards property silently", "score": 97},
+		  {"trait": "territorial and protective", "score": 96},
+		  {"trait": "protective of family", "score": 95},
+		  {"trait": "vigilant and alert", "score": 94},
+		  {"trait": "aloof with strangers", "score": 93},
+		  {"trait": "reserved with strangers", "score": 92},
+		  {"trait": "independent and self-reliant", "score": 90},
+		  {"trait": "calm and collected", "score": 88},
+		  {"trait": "placid and peaceful", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "sociable with all people", "score": 10},
+		  {"trait": "gregarious and outgoing", "score": 12},
+		  {"trait": "loves meeting strangers", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "biddable and eager to please", "score": 35},
+		  {"trait": "docile and submissive", "score": 40}
+		]
+	  },
+	  "Belgian Malinois": {
+		"most_similar_traits": [
+		  {"trait": "highly trainable", "score": 98},
+		  {"trait": "intelligent and quick to learn", "score": 97},
+		  {"trait": "vigilant and alert", "score": 96},
+		  {"trait": "protective of family", "score": 95},
+		  {"trait": "territorial and protective", "score": 94},
+		  {"trait": "confident and self-assured", "score": 93},
+		  {"trait": "bold and fearless", "score": 92},
+		  {"trait": "adaptable to new situations", "score": 90},
+		  {"trait": "focused on tasks", "score": 90},
+		  {"trait": "persistent and determined", "score": 88}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Belgian Tervuren": {
+		"most_similar_traits": [
+		  {"trait": "highly trainable", "score": 97},
+		  {"trait": "intelligent and quick to learn", "score": 96},
+		  {"trait": "vigilant and alert", "score": 95},
+		  {"trait": "protective of family", "score": 94},
+		  {"trait": "territorial and protective", "score": 93},
+		  {"trait": "confident and self-assured", "score": 92},
+		  {"trait": "bold and fearless", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "focused on tasks", "score": 87},
+		  {"trait": "persistent and determined", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Belgian Sheepdog": {
+		"most_similar_traits": [
+		  {"trait": "highly trainable", "score": 97},
+		  {"trait": "intelligent and quick to learn", "score": 96},
+		  {"trait": "vigilant and alert", "score": 95},
+		  {"trait": "protective of family", "score": 94},
+		  {"trait": "territorial and protective", "score": 93},
+		  {"trait": "confident and self-assured", "score": 92},
+		  {"trait": "bold and fearless", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "focused on tasks", "score": 87},
+		  {"trait": "persistent and determined", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "clingy and dependent", "score": 10},
+		  {"trait": "needy for attention", "score": 12},
+		  {"trait": "sensitive to criticism", "score": 15},
+		  {"trait": "easygoing and relaxed", "score": 20},
+		  {"trait": "patient with children", "score": 25},
+		  {"trait": "gentle with small children", "score": 28},
+		  {"trait": "sociable with all people", "score": 30},
+		  {"trait": "gregarious and outgoing", "score": 32},
+		  {"trait": "loves meeting strangers", "score": 35},
+		  {"trait": "tolerates being ignored", "score": 40}
+		]
+	  },
+	  "Australian Shepherd": {
+		"most_similar_traits": [
+		  {"trait": "herds by circling quietly", "score": 97},
+		  {"trait": "energetic and active", "score": 96},
+		  {"trait": "vigorous and athletic", "score": 95},
+		  {"trait": "needs constant exercise", "score": 94},
+		  {"trait": "highly trainable", "score": 93},
+		  {"trait": "intelligent and quick to learn", "score": 92},
+		  {"trait": "adaptable to new situations", "score": 90},
+		  {"trait": "focused on tasks", "score": 88},
+		  {"trait": "persistent and determined", "score": 87},
+		  {"trait": "protective of family", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "gentle with small children", "score": 40}
+		]
+	  },
+	  "Border Collie": {
+		"most_similar_traits": [
+		  {"trait": "herds by circling quietly", "score": 98},
+		  {"trait": "highly trainable", "score": 97},
+		  {"trait": "intelligent and quick to learn", "score": 96},
+		  {"trait": "focused on tasks", "score": 95},
+		  {"trait": "persistent and determined", "score": 94},
+		  {"trait": "energetic and active", "score": 93},
+		  {"trait": "vigorous and athletic", "score": 92},
+		  {"trait": "needs constant exercise", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "works far from handler", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "gentle with small children", "score": 40}
+		]
+	  },
+	  "Shetland Sheepdog": {
+		"most_similar_traits": [
+		  {"trait": "herds by circling quietly", "score": 96},
+		  {"trait": "highly trainable", "score": 95},
+		  {"trait": "intelligent and quick to learn", "score": 94},
+		  {"trait": "vigilant and alert", "score": 93},
+		  {"trait": "focused on tasks", "score": 92},
+		  {"trait": "persistent and determined", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "protective of family", "score": 87},
+		  {"trait": "territorial and protective", "score": 85},
+		  {"trait": "energetic and active", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "gentle with small children", "score": 40}
+		]
+	  },
+	  "Pembroke Welsh Corgi": {
+		"most_similar_traits": [
+		  {"trait": "herds by nipping heels", "score": 97},
+		  {"trait": "mischievous and playful", "score": 96},
+		  {"trait": "affectionate with family", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "adaptable to new situations", "score": 92},
+		  {"trait": "intelligent and quick to learn", "score": 90},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "energetic and active", "score": 87},
+		  {"trait": "vigorous and athletic", "score": 85},
+		  {"trait": "persistent and determined", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Cardigan Welsh Corgi": {
+		"most_similar_traits": [
+		  {"trait": "herds by nipping heels", "score": 96},
+		  {"trait": "mischievous and playful", "score": 95},
+		  {"trait": "affectionate with family", "score": 94},
+		  {"trait": "great family companion", "score": 93},
+		  {"trait": "adaptable to new situations", "score": 92},
+		  {"trait": "intelligent and quick to learn", "score": 90},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "energetic and active", "score": 87},
+		  {"trait": "vigorous and athletic", "score": 85},
+		  {"trait": "persistent and determined", "score": 83}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Australian Cattle Dog": {
+		"most_similar_traits": [
+		  {"trait": "herds by nipping heels", "score": 98},
+		  {"trait": "energetic and active", "score": 97},
+		  {"trait": "vigorous and athletic", "score": 96},
+		  {"trait": "needs constant exercise", "score": 95},
+		  {"trait": "persistent and determined", "score": 94},
+		  {"trait": "focused on tasks", "score": 93},
+		  {"trait": "highly trainable", "score": 92},
+		  {"trait": "intelligent and quick to learn", "score": 90},
+		  {"trait": "adaptable to new situations", "score": 88},
+		  {"trait": "protective of family", "score": 87}
+		],
+		"least_similar_traits": [
+		  {"trait": "content being lazy indoors", "score": 10},
+		  {"trait": "placid and peaceful", "score": 12},
+		  {"trait": "lethargic and lazy", "score": 15},
+		  {"trait": "sleeps all day happily", "score": 18},
+		  {"trait": "mellow and low-energy", "score": 20},
+		  {"trait": "calm and collected", "score": 25},
+		  {"trait": "clingy and dependent", "score": 30},
+		  {"trait": "needy for attention", "score": 32},
+		  {"trait": "sensitive to criticism", "score": 35},
+		  {"trait": "gentle with small children", "score": 40}
+		]
+	  },
+	  "Rough Collie": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 97},
+		  {"trait": "gentle with small children", "score": 96},
+		  {"trait": "patient with children", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "sociable with all people", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "intelligent and quick to learn", "score": 87},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Smooth Collie": {
+		"most_similar_traits": [
+		  {"trait": "affectionate with family", "score": 97},
+		  {"trait": "gentle with small children", "score": 96},
+		  {"trait": "patient with children", "score": 95},
+		  {"trait": "great family companion", "score": 94},
+		  {"trait": "easygoing and relaxed", "score": 93},
+		  {"trait": "sociable with all people", "score": 92},
+		  {"trait": "tolerant of handling", "score": 90},
+		  {"trait": "highly trainable", "score": 88},
+		  {"trait": "intelligent and quick to learn", "score": 87},
+		  {"trait": "adaptable to new situations", "score": 85}
+		],
+		"least_similar_traits": [
+		  {"trait": "guards livestock independently", "score": 10},
+		  {"trait": "patrols territory boundaries", "score": 12},
+		  {"trait": "hunts large dangerous game", "score": 15},
+		  {"trait": "works in freezing conditions", "score": 18},
+		  {"trait": "pulls sleds in teams", "score": 20},
+		  {"trait": "carries heavy loads", "score": 22},
+		  {"trait": "works far from handler", "score": 25},
+		  {"trait": "independent and self-reliant", "score": 28},
+		  {"trait": "aloof with strangers", "score": 30},
+		  {"trait": "suspicious of strangers", "score": 32}
+		]
+	  },
+	  "Affenpinscher": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "persistent and determined", "score": 95},
+        {"trait": "focused on tasks", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "territorial and protective", "score": 90},
+        {"trait": "protective of family", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Afghan Hound": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 97},
+        {"trait": "aloof with strangers", "score": 96},
+        {"trait": "reserved with strangers", "score": 95},
+        {"trait": "standoffish with new people", "score": 94},
+        {"trait": "willful and determined", "score": 93},
+        {"trait": "stubborn and strong-willed", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "vigilant and alert", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Airedale Terrier": {
+      "most_similar_traits": [
+        {"trait": "bold and fearless", "score": 97},
+        {"trait": "confident and self-assured", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "territorial and protective", "score": 94},
+        {"trait": "protective of family", "score": 93},
+        {"trait": "independent and self-reliant", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "intelligent and quick to learn", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "American Eskimo Dog": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "confident and self-assured", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+        {"trait": "protective of family", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85},
+        {"trait": "barks at every sound", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "American Foxhound": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 98},
+        {"trait": "follows scent trails relentlessly", "score": 97},
+        {"trait": "hunts in packs cooperatively", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "vigorous and athletic", "score": 94},
+        {"trait": "persistent and determined", "score": 93},
+        {"trait": "focused on tasks", "score": 92},
+        {"trait": "independent and self-reliant", "score": 90},
+        {"trait": "stubborn and strong-willed", "score": 88},
+        {"trait": "willful and determined", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "mischievous and playful", "score": 25},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerant of handling", "score": 40},
+        {"trait": "gentle with small children", "score": 45}
+      ]
+    },
+    "American Staffordshire Terrier": {
+      "most_similar_traits": [
+        {"trait": "bold and fearless", "score": 97},
+        {"trait": "confident and self-assured", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "patient with children", "score": 92},
+        {"trait": "gentle with small children", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "aloof with strangers", "score": 10},
+        {"trait": "suspicious of strangers", "score": 12},
+        {"trait": "reserved with strangers", "score": 15},
+        {"trait": "standoffish with new people", "score": 18},
+        {"trait": "independent and self-reliant", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "placid and peaceful", "score": 28},
+        {"trait": "lethargic and lazy", "score": 30},
+        {"trait": "sleeps all day happily", "score": 32},
+        {"trait": "content being lazy indoors", "score": 35}
+      ]
+    },
+    "Australian Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Basenji": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 98},
+        {"trait": "aloof with strangers", "score": 97},
+        {"trait": "reserved with strangers", "score": 96},
+        {"trait": "standoffish with new people", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "mischievous and playful", "score": 93},
+        {"trait": "adaptable to new situations", "score": 92},
+        {"trait": "intelligent and quick to learn", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "persistent and determined", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Basset Hound": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 97},
+        {"trait": "follows scent trails relentlessly", "score": 96},
+        {"trait": "persistent and determined", "score": 95},
+        {"trait": "focused on tasks", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "gentle with small children", "score": 88},
+        {"trait": "calm and collected", "score": 87},
+        {"trait": "placid and peaceful", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "vigorous and athletic", "score": 25},
+        {"trait": "needs constant exercise", "score": 28},
+        {"trait": "energetic and active", "score": 30},
+        {"trait": "focused on tasks", "score": 32},
+        {"trait": "persistent and determined", "score": 35},
+        {"trait": "willful and determined", "score": 40}
+      ]
+    },
+    "Beagle": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 98},
+        {"trait": "follows scent trails relentlessly", "score": 97},
+        {"trait": "hunts in packs cooperatively", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "vigorous and athletic", "score": 94},
+        {"trait": "mischievous and playful", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "great family companion", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "independent and self-reliant", "score": 25},
+        {"trait": "aloof with strangers", "score": 28},
+        {"trait": "reserved with strangers", "score": 30},
+        {"trait": "standoffish with new people", "score": 32}
+      ]
+    },
+    "Beauceron": {
+      "most_similar_traits": [
+        {"trait": "guards livestock independently", "score": 97},
+        {"trait": "protective of family", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Bedlington Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "energetic and active", "score": 94},
+        {"trait": "persistent and determined", "score": 93},
+        {"trait": "focused on tasks", "score": 92},
+        {"trait": "adaptable to new situations", "score": 90},
+        {"trait": "intelligent and quick to learn", "score": 88},
+        {"trait": "highly trainable", "score": 87},
+        {"trait": "confident and self-assured", "score": 85},
+        {"trait": "bold and fearless", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+    "Bichon Frise": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "affectionate with family", "score": 96},
+        {"trait": "great family companion", "score": 95},
+        {"trait": "gentle with small children", "score": 94},
+        {"trait": "patient with children", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "easygoing and relaxed", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Black and Tan Coonhound": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 97},
+        {"trait": "follows scent trails relentlessly", "score": 96},
+        {"trait": "persistent and determined", "score": 95},
+        {"trait": "focused on tasks", "score": 94},
+        {"trait": "vigorous and athletic", "score": 93},
+        {"trait": "energetic and active", "score": 92},
+        {"trait": "independent and self-reliant", "score": 90},
+        {"trait": "stubborn and strong-willed", "score": 88},
+        {"trait": "willful and determined", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "mischievous and playful", "score": 25},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerant of handling", "score": 40},
+        {"trait": "gentle with small children", "score": 45}
+      ]
+    },
+    "Bloodhound": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 99},
+        {"trait": "follows scent trails relentlessly", "score": 98},
+        {"trait": "persistent and determined", "score": 97},
+        {"trait": "focused on tasks", "score": 96},
+        {"trait": "works until exhaustion", "score": 95},
+        {"trait": "independent and self-reliant", "score": 94},
+        {"trait": "stubborn and strong-willed", "score": 93},
+        {"trait": "willful and determined", "score": 92},
+        {"trait": "vigorous and athletic", "score": 90},
+        {"trait": "energetic and active", "score": 88}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "mischievous and playful", "score": 25},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerant of handling", "score": 40},
+        {"trait": "gentle with small children", "score": 45}
+      ]
+    },
+    "Border Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Borzoi": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "chases small animals", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "aloof with strangers", "score": 92},
+        {"trait": "reserved with strangers", "score": 90},
+        {"trait": "standoffish with new people", "score": 88},
+        {"trait": "willful and determined", "score": 87},
+        {"trait": "stubborn and strong-willed", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Boston Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "gentle with small children", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85},
+        {"trait": "highly trainable", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Bouvier des Flandres": {
+      "most_similar_traits": [
+        {"trait": "guards livestock independently", "score": 97},
+        {"trait": "protective of family", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Briard": {
+      "most_similar_traits": [
+        {"trait": "guards livestock independently", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "territorial and protective", "score": 94},
+        {"trait": "vigilant and alert", "score": 93},
+        {"trait": "independent and self-reliant", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "highly trainable", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+	"Brussels Griffon": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "persistent and determined", "score": 94},
+        {"trait": "focused on tasks", "score": 93},
+        {"trait": "adaptable to new situations", "score": 92},
+        {"trait": "intelligent and quick to learn", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "bold and fearless", "score": 85},
+        {"trait": "territorial and protective", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Bull Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "boisterous and rowdy", "score": 96},
+        {"trait": "bold and fearless", "score": 95},
+        {"trait": "confident and self-assured", "score": 94},
+        {"trait": "stubborn and strong-willed", "score": 93},
+        {"trait": "willful and determined", "score": 92},
+        {"trait": "persistent and determined", "score": 90},
+        {"trait": "focused on tasks", "score": 88},
+        {"trait": "vigilant and alert", "score": 87},
+        {"trait": "territorial and protective", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Bulldog": {
+      "most_similar_traits": [
+        {"trait": "easygoing and relaxed", "score": 97},
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "calm and collected", "score": 90},
+        {"trait": "placid and peaceful", "score": 88},
+        {"trait": "docile and submissive", "score": 87},
+        {"trait": "content being lazy indoors", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "vigorous and athletic", "score": 25},
+        {"trait": "needs constant exercise", "score": 28},
+        {"trait": "energetic and active", "score": 30},
+        {"trait": "focused on tasks", "score": 32},
+        {"trait": "persistent and determined", "score": 35},
+        {"trait": "willful and determined", "score": 40}
+      ]
+    },
+    "Cairn Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Cavalier King Charles Spaniel": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 98},
+        {"trait": "gentle with small children", "score": 97},
+        {"trait": "patient with children", "score": 96},
+        {"trait": "great family companion", "score": 95},
+        {"trait": "easygoing and relaxed", "score": 94},
+        {"trait": "sociable with all people", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "clingy and dependent", "score": 90},
+        {"trait": "needy for attention", "score": 88},
+        {"trait": "mischievous and playful", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Chihuahua": {
+      "most_similar_traits": [
+        {"trait": "clingy and dependent", "score": 95},
+        {"trait": "needy for attention", "score": 94},
+        {"trait": "vigilant and alert", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+        {"trait": "protective of family", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "mischievous and playful", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83},
+        {"trait": "barks at every sound", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Chinese Crested": {
+      "most_similar_traits": [
+        {"trait": "clingy and dependent", "score": 96},
+        {"trait": "needy for attention", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "gentle with small children", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "mischievous and playful", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85},
+        {"trait": "easygoing and relaxed", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Chinese Shar-Pei": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 97},
+        {"trait": "aloof with strangers", "score": 96},
+        {"trait": "reserved with strangers", "score": 95},
+        {"trait": "standoffish with new people", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "vigilant and alert", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "bold and fearless", "score": 87},
+        {"trait": "stubborn and strong-willed", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "sociable with all people", "score": 10},
+        {"trait": "gregarious and outgoing", "score": 12},
+        {"trait": "loves meeting strangers", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "biddable and eager to please", "score": 35},
+        {"trait": "docile and submissive", "score": 40}
+      ]
+    },
+    "Chow Chow": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 97},
+        {"trait": "aloof with strangers", "score": 96},
+        {"trait": "reserved with strangers", "score": 95},
+        {"trait": "standoffish with new people", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "vigilant and alert", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "bold and fearless", "score": 87},
+        {"trait": "stubborn and strong-willed", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "sociable with all people", "score": 10},
+        {"trait": "gregarious and outgoing", "score": 12},
+        {"trait": "loves meeting strangers", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "biddable and eager to please", "score": 35},
+        {"trait": "docile and submissive", "score": 40}
+      ]
+    },
+    "Coton de Tulear": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "affectionate with family", "score": 96},
+        {"trait": "great family companion", "score": 95},
+        {"trait": "gentle with small children", "score": 94},
+        {"trait": "patient with children", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "easygoing and relaxed", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Dachshund": {
+      "most_similar_traits": [
+        {"trait": "hunts vermin underground", "score": 98},
+        {"trait": "kills rats and rodents", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "independent and self-reliant", "score": 92},
+        {"trait": "stubborn and strong-willed", "score": 90},
+        {"trait": "willful and determined", "score": 88},
+        {"trait": "mischievous and playful", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "retrieves from water eagerly", "score": 10},
+        {"trait": "swims in cold water", "score": 12},
+        {"trait": "dives underwater for prey", "score": 15},
+        {"trait": "rescues drowning victims", "score": 18},
+        {"trait": "searches avalanche debris", "score": 20},
+        {"trait": "pulls sleds in teams", "score": 22},
+        {"trait": "works in freezing conditions", "score": 25},
+        {"trait": "carries heavy loads", "score": 28},
+        {"trait": "works far from handler", "score": 30},
+        {"trait": "herds by circling quietly", "score": 32}
+      ]
+    },
+    "Dalmatian": {
+      "most_similar_traits": [
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "mischievous and playful", "score": 94},
+        {"trait": "adaptable to new situations", "score": 93},
+        {"trait": "intelligent and quick to learn", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "persistent and determined", "score": 88},
+        {"trait": "focused on tasks", "score": 87},
+        {"trait": "needs constant exercise", "score": 85},
+        {"trait": "confident and self-assured", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+"English Toy Spaniel": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 97},
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "clingy and dependent", "score": 88},
+        {"trait": "needy for attention", "score": 87},
+        {"trait": "mischievous and playful", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Finnish Lapphund": {
+      "most_similar_traits": [
+        {"trait": "herds by circling quietly", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "gentle with small children", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "sociable with all people", "score": 87},
+        {"trait": "easygoing and relaxed", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83},
+        {"trait": "calm and collected", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "suspicious of strangers", "score": 32}
+      ]
+    },
+    "Finnish Spitz": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 97},
+        {"trait": "territorial and protective", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "independent and self-reliant", "score": 94},
+        {"trait": "aloof with strangers", "score": 93},
+        {"trait": "reserved with strangers", "score": 92},
+        {"trait": "standoffish with new people", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "bold and fearless", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "French Bulldog": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "gentle with small children", "score": 88},
+        {"trait": "adapts well to apartments", "score": 87},
+        {"trait": "thrives in small spaces", "score": 85},
+        {"trait": "content being lazy indoors", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+"Greyhound": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 98},
+        {"trait": "energetic and active", "score": 97},
+        {"trait": "chases small animals", "score": 96},
+        {"trait": "adaptable to new situations", "score": 95},
+        {"trait": "intelligent and quick to learn", "score": 94},
+        {"trait": "highly trainable", "score": 93},
+        {"trait": "mellow and low-energy", "score": 92},
+        {"trait": "content being lazy indoors", "score": 90},
+        {"trait": "calm and collected", "score": 88},
+        {"trait": "placid and peaceful", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "independent and self-reliant", "score": 25},
+        {"trait": "aloof with strangers", "score": 28},
+        {"trait": "reserved with strangers", "score": 30},
+        {"trait": "standoffish with new people", "score": 32}
+      ]
+    },
+    "Havanese": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 98},
+        {"trait": "great family companion", "score": 97},
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "easygoing and relaxed", "score": 94},
+        {"trait": "sociable with all people", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "mischievous and playful", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Ibizan Hound": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "chases small animals", "score": 95},
+        {"trait": "adaptable to new situations", "score": 94},
+        {"trait": "intelligent and quick to learn", "score": 93},
+        {"trait": "highly trainable", "score": 92},
+        {"trait": "mischievous and playful", "score": 90},
+        {"trait": "persistent and determined", "score": 88},
+        {"trait": "focused on tasks", "score": 87},
+        {"trait": "independent and self-reliant", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "aloof with strangers", "score": 25},
+        {"trait": "reserved with strangers", "score": 28},
+        {"trait": "standoffish with new people", "score": 30},
+        {"trait": "suspicious of strangers", "score": 32}
+      ]
+    },
+    "Icelandic Sheepdog": {
+      "most_similar_traits": [
+        {"trait": "herds by circling quietly", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "intelligent and quick to learn", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "focused on tasks", "score": 87},
+        {"trait": "persistent and determined", "score": 85},
+        {"trait": "energetic and active", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+	"Irish Terrier": {
+      "most_similar_traits": [
+        {"trait": "bold and fearless", "score": 97},
+        {"trait": "confident and self-assured", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "territorial and protective", "score": 94},
+        {"trait": "protective of family", "score": 93},
+        {"trait": "mischievous and playful", "score": 92},
+        {"trait": "energetic and active", "score": 90},
+        {"trait": "vigorous and athletic", "score": 88},
+        {"trait": "persistent and determined", "score": 87},
+        {"trait": "focused on tasks", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Irish Wolfhound": {
+      "most_similar_traits": [
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "easygoing and relaxed", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "calm and collected", "score": 88},
+        {"trait": "placid and peaceful", "score": 87},
+        {"trait": "docile and submissive", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "vigorous and athletic", "score": 25},
+        {"trait": "needs constant exercise", "score": 28},
+        {"trait": "energetic and active", "score": 30},
+        {"trait": "focused on tasks", "score": 32},
+        {"trait": "persistent and determined", "score": 35},
+        {"trait": "willful and determined", "score": 40}
+      ]
+    },
+    "Italian Greyhound": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "chases small animals", "score": 94},
+        {"trait": "mischievous and playful", "score": 93},
+        {"trait": "adaptable to new situations", "score": 92},
+        {"trait": "intelligent and quick to learn", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "affectionate with family", "score": 87},
+        {"trait": "great family companion", "score": 85},
+        {"trait": "easygoing and relaxed", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "independent and self-reliant", "score": 25},
+        {"trait": "aloof with strangers", "score": 28},
+        {"trait": "reserved with strangers", "score": 30},
+        {"trait": "standoffish with new people", "score": 32}
+      ]
+    },
+    "Japanese Chin": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 96},
+        {"trait": "gentle with small children", "score": 95},
+        {"trait": "patient with children", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "easygoing and relaxed", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "clingy and dependent", "score": 88},
+        {"trait": "needy for attention", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85},
+        {"trait": "mischievous and playful", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Keeshond": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "confident and self-assured", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+        {"trait": "protective of family", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85},
+        {"trait": "barks at every sound", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Kerry Blue Terrier": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "independent and self-reliant", "score": 90},
+        {"trait": "stubborn and strong-willed", "score": 88},
+        {"trait": "willful and determined", "score": 87},
+        {"trait": "persistent and determined", "score": 85},
+        {"trait": "focused on tasks", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Lhasa Apso": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "aloof with strangers", "score": 92},
+        {"trait": "reserved with strangers", "score": 90},
+        {"trait": "standoffish with new people", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "bold and fearless", "score": 85},
+        {"trait": "persistent and determined", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Löwchen": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "gentle with small children", "score": 93},
+        {"trait": "patient with children", "score": 92},
+        {"trait": "easygoing and relaxed", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "clingy and dependent", "score": 87},
+        {"trait": "needy for attention", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83},
+        {"trait": "mischievous and playful", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Maltese": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 97},
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "clingy and dependent", "score": 88},
+        {"trait": "needy for attention", "score": 87},
+        {"trait": "mischievous and playful", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Miniature Pinscher": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 97},
+        {"trait": "territorial and protective", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "bold and fearless", "score": 94},
+        {"trait": "confident and self-assured", "score": 93},
+        {"trait": "mischievous and playful", "score": 92},
+        {"trait": "energetic and active", "score": 90},
+        {"trait": "vigorous and athletic", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Miniature Schnauzer": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 97},
+        {"trait": "territorial and protective", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "bold and fearless", "score": 94},
+        {"trait": "confident and self-assured", "score": 93},
+        {"trait": "mischievous and playful", "score": 92},
+        {"trait": "adaptable to new situations", "score": 90},
+        {"trait": "intelligent and quick to learn", "score": 88},
+        {"trait": "highly trainable", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Norfolk Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Norwegian Buhund": {
+      "most_similar_traits": [
+        {"trait": "herds by nipping heels", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "protective of family", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+        {"trait": "intelligent and quick to learn", "score": 90},
+        {"trait": "highly trainable", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "focused on tasks", "score": 85},
+        {"trait": "persistent and determined", "score": 83},
+        {"trait": "energetic and active", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+    "Norwegian Elkhound": {
+      "most_similar_traits": [
+        {"trait": "hunts large dangerous game", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "independent and self-reliant", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "persistent and determined", "score": 85},
+        {"trait": "energetic and active", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Norwich Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "persistent and determined", "score": 96},
+        {"trait": "focused on tasks", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Old English Sheepdog": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "patient with children", "score": 93},
+        {"trait": "gentle with small children", "score": 92},
+        {"trait": "easygoing and relaxed", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "sociable with all people", "score": 87},
+        {"trait": "mischievous and playful", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83},
+        {"trait": "calm and collected", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "suspicious of strangers", "score": 32}
+      ]
+    },
+    "Otterhound": {
+      "most_similar_traits": [
+        {"trait": "tracks by scent tirelessly", "score": 97},
+        {"trait": "follows scent trails relentlessly", "score": 96},
+        {"trait": "retrieves from water eagerly", "score": 95},
+        {"trait": "swims in cold water", "score": 94},
+        {"trait": "persistent and determined", "score": 93},
+        {"trait": "focused on tasks", "score": 92},
+        {"trait": "energetic and active", "score": 90},
+        {"trait": "vigorous and athletic", "score": 88},
+        {"trait": "independent and self-reliant", "score": 87},
+        {"trait": "stubborn and strong-willed", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "hyperactive needs constant exercise", "score": 10},
+        {"trait": "restless without exercise", "score": 12},
+        {"trait": "boisterous and rowdy", "score": 15},
+        {"trait": "excitable and energetic", "score": 20},
+        {"trait": "mischievous and playful", "score": 25},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerant of handling", "score": 40},
+        {"trait": "gentle with small children", "score": 45}
+      ]
+    },
+    "Papillon": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "adaptable to new situations", "score": 94},
+        {"trait": "intelligent and quick to learn", "score": 93},
+        {"trait": "highly trainable", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "persistent and determined", "score": 87},
+        {"trait": "focused on tasks", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+    "Pharaoh Hound": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "chases small animals", "score": 95},
+        {"trait": "adaptable to new situations", "score": 94},
+        {"trait": "intelligent and quick to learn", "score": 93},
+        {"trait": "highly trainable", "score": 92},
+        {"trait": "mischievous and playful", "score": 90},
+        {"trait": "persistent and determined", "score": 88},
+        {"trait": "focused on tasks", "score": 87},
+        {"trait": "independent and self-reliant", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "aloof with strangers", "score": 25},
+        {"trait": "reserved with strangers", "score": 28},
+        {"trait": "standoffish with new people", "score": 30},
+        {"trait": "suspicious of strangers", "score": 32}
+      ]
+    },
+    "Polish Lowland Sheepdog": {
+      "most_similar_traits": [
+        {"trait": "herds by circling quietly", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "intelligent and quick to learn", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "focused on tasks", "score": 87},
+        {"trait": "persistent and determined", "score": 85},
+        {"trait": "energetic and active", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+	   "Poodle": {
+      "most_similar_traits": [
+        {"trait": "highly trainable", "score": 98},
+        {"trait": "intelligent and quick to learn", "score": 97},
+        {"trait": "adaptable to new situations", "score": 96},
+        {"trait": "clever problem solver", "score": 95},
+        {"trait": "mischievous and playful", "score": 94},
+        {"trait": "affectionate with family", "score": 93},
+        {"trait": "great family companion", "score": 92},
+        {"trait": "sociable with all people", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "easygoing and relaxed", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Portuguese Podengo": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "energetic and active", "score": 94},
+        {"trait": "vigorous and athletic", "score": 93},
+        {"trait": "persistent and determined", "score": 92},
+        {"trait": "focused on tasks", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85},
+        {"trait": "protective of family", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+    "Pug": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "tolerant of handling", "score": 92},
+        {"trait": "patient with children", "score": 90},
+        {"trait": "gentle with small children", "score": 88},
+        {"trait": "clingy and dependent", "score": 87},
+        {"trait": "needy for attention", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Pyrenean Shepherd": {
+      "most_similar_traits": [
+        {"trait": "herds by circling quietly", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "needs constant exercise", "score": 94},
+        {"trait": "persistent and determined", "score": 93},
+        {"trait": "focused on tasks", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "intelligent and quick to learn", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "protective of family", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+    "Rhodesian Ridgeback": {
+      "most_similar_traits": [
+        {"trait": "hunts large dangerous game", "score": 97},
+        {"trait": "territorial and protective", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "aloof with strangers", "score": 90},
+        {"trait": "reserved with strangers", "score": 88},
+        {"trait": "independent and self-reliant", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "sensitive to criticism", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32},
+        {"trait": "loves meeting strangers", "score": 35},
+        {"trait": "tolerates being ignored", "score": 40}
+      ]
+    },
+    "Saluki": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "chases small animals", "score": 95},
+        {"trait": "independent and self-reliant", "score": 94},
+        {"trait": "aloof with strangers", "score": 93},
+        {"trait": "reserved with strangers", "score": 92},
+        {"trait": "standoffish with new people", "score": 90},
+        {"trait": "willful and determined", "score": 88},
+        {"trait": "stubborn and strong-willed", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Schipperke": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 97},
+        {"trait": "territorial and protective", "score": 96},
+        {"trait": "protective of family", "score": 95},
+        {"trait": "bold and fearless", "score": 94},
+        {"trait": "confident and self-assured", "score": 93},
+        {"trait": "mischievous and playful", "score": 92},
+        {"trait": "energetic and active", "score": 90},
+        {"trait": "vigorous and athletic", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Scottish Deerhound": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "chases small animals", "score": 94},
+        {"trait": "gentle with small children", "score": 93},
+        {"trait": "patient with children", "score": 92},
+        {"trait": "affectionate with family", "score": 90},
+        {"trait": "great family companion", "score": 88},
+        {"trait": "easygoing and relaxed", "score": 87},
+        {"trait": "tolerant of handling", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "independent and self-reliant", "score": 25},
+        {"trait": "aloof with strangers", "score": 28},
+        {"trait": "reserved with strangers", "score": 30},
+        {"trait": "standoffish with new people", "score": 32}
+      ]
+    },
+    "Scottish Terrier": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 97},
+        {"trait": "stubborn and strong-willed", "score": 96},
+        {"trait": "willful and determined", "score": 95},
+        {"trait": "vigilant and alert", "score": 94},
+        {"trait": "territorial and protective", "score": 93},
+        {"trait": "protective of family", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "persistent and determined", "score": 87},
+        {"trait": "focused on tasks", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Shiba Inu": {
+      "most_similar_traits": [
+        {"trait": "independent and self-reliant", "score": 98},
+        {"trait": "stubborn and strong-willed", "score": 97},
+        {"trait": "willful and determined", "score": 96},
+        {"trait": "aloof with strangers", "score": 95},
+        {"trait": "reserved with strangers", "score": 94},
+        {"trait": "standoffish with new people", "score": 93},
+        {"trait": "vigilant and alert", "score": 92},
+        {"trait": "territorial and protective", "score": 90},
+        {"trait": "protective of family", "score": 88},
+        {"trait": "confident and self-assured", "score": 87}
+      ],
+      "least_similar_traits": [
+        {"trait": "sociable with all people", "score": 10},
+        {"trait": "gregarious and outgoing", "score": 12},
+        {"trait": "loves meeting strangers", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "biddable and eager to please", "score": 35},
+        {"trait": "docile and submissive", "score": 40}
+      ]
+    },
+    "Shih Tzu": {
+      "most_similar_traits": [
+        {"trait": "affectionate with family", "score": 97},
+        {"trait": "gentle with small children", "score": 96},
+        {"trait": "patient with children", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "easygoing and relaxed", "score": 93},
+        {"trait": "sociable with all people", "score": 92},
+        {"trait": "tolerant of handling", "score": 90},
+        {"trait": "clingy and dependent", "score": 88},
+        {"trait": "needy for attention", "score": 87},
+        {"trait": "adapts well to apartments", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Silky Terrier": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "confident and self-assured", "score": 92},
+        {"trait": "mischievous and playful", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85},
+        {"trait": "persistent and determined", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Smooth Fox Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "persistent and determined", "score": 94},
+        {"trait": "focused on tasks", "score": 93},
+        {"trait": "bold and fearless", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+    "Soft Coated Wheaten Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "affectionate with family", "score": 95},
+        {"trait": "great family companion", "score": 94},
+        {"trait": "gentle with small children", "score": 93},
+        {"trait": "patient with children", "score": 92},
+        {"trait": "easygoing and relaxed", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "sociable with all people", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85},
+        {"trait": "intelligent and quick to learn", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Staffordshire Bull Terrier": {
+      "most_similar_traits": [
+        {"trait": "bold and fearless", "score": 97},
+        {"trait": "confident and self-assured", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "affectionate with family", "score": 94},
+        {"trait": "great family companion", "score": 93},
+        {"trait": "patient with children", "score": 92},
+        {"trait": "gentle with small children", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "persistent and determined", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "aloof with strangers", "score": 10},
+        {"trait": "suspicious of strangers", "score": 12},
+        {"trait": "reserved with strangers", "score": 15},
+        {"trait": "standoffish with new people", "score": 18},
+        {"trait": "independent and self-reliant", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "placid and peaceful", "score": 28},
+        {"trait": "lethargic and lazy", "score": 30},
+        {"trait": "sleeps all day happily", "score": 32},
+        {"trait": "content being lazy indoors", "score": 35}
+      ]
+    },
+    "Swedish Vallhund": {
+      "most_similar_traits": [
+        {"trait": "herds by nipping heels", "score": 95},
+        {"trait": "energetic and active", "score": 94},
+        {"trait": "vigorous and athletic", "score": 93},
+        {"trait": "needs constant exercise", "score": 92},
+        {"trait": "persistent and determined", "score": 90},
+        {"trait": "focused on tasks", "score": 88},
+        {"trait": "highly trainable", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85},
+        {"trait": "adaptable to new situations", "score": 83},
+        {"trait": "mischievous and playful", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "sensitive to criticism", "score": 35},
+        {"trait": "gentle with small children", "score": 40}
+      ]
+    },
+    "Tibetan Mastiff": {
+      "most_similar_traits": [
+        {"trait": "guards livestock independently", "score": 99},
+        {"trait": "guards property silently", "score": 98},
+        {"trait": "territorial and protective", "score": 97},
+        {"trait": "protective of family", "score": 96},
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "independent and self-reliant", "score": 94},
+        {"trait": "aloof with strangers", "score": 93},
+        {"trait": "reserved with strangers", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "bold and fearless", "score": 88}
+      ],
+      "least_similar_traits": [
+        {"trait": "sociable with all people", "score": 10},
+        {"trait": "gregarious and outgoing", "score": 12},
+        {"trait": "loves meeting strangers", "score": 15},
+        {"trait": "easygoing and relaxed", "score": 20},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 32},
+        {"trait": "biddable and eager to please", "score": 35},
+        {"trait": "docile and submissive", "score": 40}
+      ]
+    },
+    "Tibetan Spaniel": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "aloof with strangers", "score": 92},
+        {"trait": "reserved with strangers", "score": 90},
+        {"trait": "standoffish with new people", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "bold and fearless", "score": 85},
+        {"trait": "persistent and determined", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Tibetan Terrier": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "aloof with strangers", "score": 92},
+        {"trait": "reserved with strangers", "score": 90},
+        {"trait": "standoffish with new people", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "bold and fearless", "score": 85},
+        {"trait": "persistent and determined", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+	"Pomeranian": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "mischievous and playful", "score": 95},
+        {"trait": "confident and self-assured", "score": 94},
+        {"trait": "bold and fearless", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+		{"trait": "protective of family", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85},
+        {"trait": "barks at every sound", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+	"Toy Fox Terrier": {
+		"most_similar_traits": [
+		  {"trait": "vigilant and alert", "score": 97},
+		  {"trait": "territorial and protective", "score": 96},
+		  {"trait": "protective of family", "score": 95},
+		  {"trait": "bold and fearless", "score": 94},
+		  {"trait": "confident and self-assured", "score": 93},
+		  {"trait": "mischievous and playful", "score": 92},
+		  {"trait": "energetic and active", "score": 90},
+		  {"trait": "vigorous and athletic", "score": 88},
+		  {"trait": "adaptable to new situations", "score": 87},
+		  {"trait": "intelligent and quick to learn", "score": 85}
+		],
+		"least_similar_traits": [
+		{"trait": "guards livestock independently", "score": 10},
+		{"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },"Toy Poodle": {
+      "most_similar_traits": [
+        {"trait": "highly trainable", "score": 97},
+        {"trait": "intelligent and quick to learn", "score": 96},
+        {"trait": "adaptable to new situations", "score": 95},
+        {"trait": "clever problem solver", "score": 94},
+        {"trait": "affectionate with family", "score": 93},
+        {"trait": "great family companion", "score": 92},
+        {"trait": "sociable with all people", "score": 90},
+        {"trait": "tolerant of handling", "score": 88},
+        {"trait": "mischievous and playful", "score": 87},
+        {"trait": "easygoing and relaxed", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Welsh Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "energetic and active", "score": 95},
+        {"trait": "vigorous and athletic", "score": 94},
+        {"trait": "persistent and determined", "score": 93},
+        {"trait": "focused on tasks", "score": 92},
+        {"trait": "bold and fearless", "score": 90},
+        {"trait": "confident and self-assured", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85},
+        {"trait": "highly trainable", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+    "West Highland White Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 96},
+        {"trait": "persistent and determined", "score": 95},
+        {"trait": "focused on tasks", "score": 94},
+        {"trait": "vigilant and alert", "score": 93},
+        {"trait": "territorial and protective", "score": 92},
+        {"trait": "protective of family", "score": 90},
+        {"trait": "bold and fearless", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "adaptable to new situations", "score": 85},
+        {"trait": "intelligent and quick to learn", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    },
+    "Whippet": {
+      "most_similar_traits": [
+        {"trait": "vigorous and athletic", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "chases small animals", "score": 95},
+        {"trait": "mischievous and playful", "score": 94},
+        {"trait": "adaptable to new situations", "score": 93},
+        {"trait": "intelligent and quick to learn", "score": 92},
+        {"trait": "highly trainable", "score": 90},
+        {"trait": "great family companion", "score": 88},
+        {"trait": "affectionate with family", "score": 87},
+        {"trait": "easygoing and relaxed", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "guards property silently", "score": 15},
+        {"trait": "herds by circling quietly", "score": 18},
+        {"trait": "herds by nipping heels", "score": 20},
+        {"trait": "works far from handler", "score": 22},
+        {"trait": "independent and self-reliant", "score": 25},
+        {"trait": "aloof with strangers", "score": 28},
+        {"trait": "reserved with strangers", "score": 30},
+        {"trait": "standoffish with new people", "score": 32}
+      ]
+    },
+    "Wire Fox Terrier": {
+      "most_similar_traits": [
+        {"trait": "mischievous and playful", "score": 97},
+        {"trait": "energetic and active", "score": 96},
+        {"trait": "vigorous and athletic", "score": 95},
+        {"trait": "persistent and determined", "score": 94},
+        {"trait": "focused on tasks", "score": 93},
+        {"trait": "bold and fearless", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "adaptable to new situations", "score": 88},
+        {"trait": "intelligent and quick to learn", "score": 87},
+        {"trait": "highly trainable", "score": 85}
+      ],
+      "least_similar_traits": [
+        {"trait": "content being lazy indoors", "score": 10},
+        {"trait": "placid and peaceful", "score": 12},
+        {"trait": "lethargic and lazy", "score": 15},
+        {"trait": "sleeps all day happily", "score": 18},
+        {"trait": "mellow and low-energy", "score": 20},
+        {"trait": "calm and collected", "score": 25},
+        {"trait": "docile and submissive", "score": 30},
+        {"trait": "clingy and dependent", "score": 30},
+        {"trait": "needy for attention", "score": 35},
+        {"trait": "sensitive to criticism", "score": 40}
+      ]
+    },
+    "Xoloitzcuintli": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 96},
+        {"trait": "territorial and protective", "score": 95},
+        {"trait": "protective of family", "score": 94},
+        {"trait": "independent and self-reliant", "score": 93},
+        {"trait": "aloof with strangers", "score": 92},
+        {"trait": "reserved with strangers", "score": 90},
+        {"trait": "standoffish with new people", "score": 88},
+        {"trait": "confident and self-assured", "score": 87},
+        {"trait": "bold and fearless", "score": 85},
+        {"trait": "persistent and determined", "score": 83}
+      ],
+      "least_similar_traits": [
+        {"trait": "clingy and dependent", "score": 10},
+        {"trait": "needy for attention", "score": 12},
+        {"trait": "biddable and eager to please", "score": 15},
+        {"trait": "docile and submissive", "score": 18},
+        {"trait": "submissive to authority", "score": 20},
+        {"trait": "sensitive to criticism", "score": 22},
+        {"trait": "patient with children", "score": 25},
+        {"trait": "gentle with small children", "score": 28},
+        {"trait": "sociable with all people", "score": 30},
+        {"trait": "gregarious and outgoing", "score": 32}
+      ]
+    },
+    "Yorkshire Terrier": {
+      "most_similar_traits": [
+        {"trait": "vigilant and alert", "score": 95},
+        {"trait": "territorial and protective", "score": 94},
+        {"trait": "protective of family", "score": 93},
+        {"trait": "bold and fearless", "score": 92},
+        {"trait": "confident and self-assured", "score": 90},
+        {"trait": "mischievous and playful", "score": 88},
+        {"trait": "adaptable to new situations", "score": 87},
+        {"trait": "intelligent and quick to learn", "score": 85},
+        {"trait": "highly trainable", "score": 83},
+        {"trait": "persistent and determined", "score": 80}
+      ],
+      "least_similar_traits": [
+        {"trait": "guards livestock independently", "score": 10},
+        {"trait": "patrols territory boundaries", "score": 12},
+        {"trait": "hunts large dangerous game", "score": 15},
+        {"trait": "works in freezing conditions", "score": 18},
+        {"trait": "pulls sleds in teams", "score": 20},
+        {"trait": "carries heavy loads", "score": 22},
+        {"trait": "works far from handler", "score": 25},
+        {"trait": "independent and self-reliant", "score": 28},
+        {"trait": "aloof with strangers", "score": 30},
+        {"trait": "reserved with strangers", "score": 32}
+      ]
+    }
+  }
+}

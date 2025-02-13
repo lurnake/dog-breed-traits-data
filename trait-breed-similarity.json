@@ -1,0 +1,3386 @@
+{
+  "trait_breed_similarity": {
+    "reserved with strangers": {
+      "most_similar_breeds": [
+			  {"breed": "Shiba Inu", "score": 95},
+			  {"breed": "Akita", "score": 94},
+			  {"breed": "Chow Chow", "score": 93},
+			  {"breed": "Chinese Shar-Pei", "score": 92},
+			  {"breed": "Afghan Hound", "score": 90},
+			  {"breed": "Basenji", "score": 88},
+			  {"breed": "Tibetan Mastiff", "score": 87},
+			  {"breed": "Rhodesian Ridgeback", "score": 85},
+			  {"breed": "Rottweiler", "score": 83},
+			  {"breed": "Doberman Pinscher", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 20},
+			  {"breed": "Labrador Retriever", "score": 25},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "Maltese", "score": 35},
+			  {"breed": "Poodle", "score": 38},
+			  {"breed": "Toy Poodle", "score": 40},
+			  {"breed": "Havanese", "score": 42},
+			  {"breed": "Shih Tzu", "score": 45},
+			  {"breed": "Pug", "score": 48}
+			]
+		  },
+		  "standoffish with new people": {
+			"most_similar_breeds": [
+			  {"breed": "Shiba Inu", "score": 93},
+			  {"breed": "Akita", "score": 92},
+			  {"breed": "Chow Chow", "score": 90},
+			  {"breed": "Chinese Shar-Pei", "score": 88},
+			  {"breed": "Afghan Hound", "score": 87},
+			  {"breed": "Basenji", "score": 85},
+			  {"breed": "Tibetan Mastiff", "score": 83},
+			  {"breed": "Rhodesian Ridgeback", "score": 80},
+			  {"breed": "Xoloitzcuintli", "score": 78},
+			  {"breed": "Finnish Spitz", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 22},
+			  {"breed": "Labrador Retriever", "score": 28},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "Maltese", "score": 35},
+			  {"breed": "Poodle", "score": 38},
+			  {"breed": "Toy Poodle", "score": 40},
+			  {"breed": "Havanese", "score": 42},
+			  {"breed": "Shih Tzu", "score": 45},
+			  {"breed": "Pug", "score": 48}
+			]
+		  },
+		  "needy for attention": {
+			"most_similar_breeds": [
+			  {"breed": "Vizsla", "score": 94},
+			  {"breed": "Chinese Crested", "score": 93},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 88},
+			  {"breed": "Shih Tzu", "score": 87},
+			  {"breed": "Löwchen", "score": 85},
+			  {"breed": "English Toy Spaniel", "score": 83},
+			  {"breed": "Havanese", "score": 80},
+			  {"breed": "Maltese", "score": 78},
+			  {"breed": "Pug", "score": 75},
+			  {"breed": "Chihuahua", "score": 73}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 12},
+			  {"breed": "Alaskan Malamute", "score": 15},
+			  {"breed": "Shiba Inu", "score": 18},
+			  {"breed": "Akita", "score": 20},
+			  {"breed": "Chow Chow", "score": 22},
+			  {"breed": "Rhodesian Ridgeback", "score": 25},
+			  {"breed": "German Shepherd", "score": 28},
+			  {"breed": "Rottweiler", "score": 30},
+			  {"breed": "Doberman Pinscher", "score": 32},
+			  {"breed": "Afghan Hound", "score": 35}
+			]
+		  },
+		  "strongly bonded to family": {
+			"most_similar_breeds": [
+			  {"breed": "Akita", "score": 95},
+			  {"breed": "Shiba Inu", "score": 94},
+			  {"breed": "Chow Chow", "score": 93},
+			  {"breed": "Chinese Shar-Pei", "score": 92},
+			  {"breed": "Tibetan Mastiff", "score": 90},
+			  {"breed": "German Shepherd", "score": 88},
+			  {"breed": "Rottweiler", "score": 87},
+			  {"breed": "Doberman Pinscher", "score": 85},
+			  {"breed": "Great Pyrenees", "score": 83},
+			  {"breed": "Bernese Mountain Dog", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 30},
+			  {"breed": "Labrador Retriever", "score": 35},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 40},
+			  {"breed": "Bichon Frise", "score": 42},
+			  {"breed": "Maltese", "score": 45},
+			  {"breed": "Poodle", "score": 48},
+			  {"breed": "Toy Poodle", "score": 50},
+			  {"breed": "Havanese", "score": 52},
+			  {"breed": "Shih Tzu", "score": 55},
+			  {"breed": "Pug", "score": 58}
+			]
+		  },
+		  "retrieves from water eagerly": {
+			"most_similar_breeds": [
+			  {"breed": "Labrador Retriever", "score": 98},
+			  {"breed": "Chesapeake Bay Retriever", "score": 97},
+			  {"breed": "Portuguese Water Dog", "score": 96},
+			  {"breed": "Nova Scotia Duck Tolling Retriever", "score": 95},
+			  {"breed": "Golden Retriever", "score": 90},
+			  {"breed": "Flat-Coated Retriever", "score": 88},
+			  {"breed": "Otterhound", "score": 85},
+			  {"breed": "American Water Spaniel", "score": 83},
+			  {"breed": "Irish Water Spaniel", "score": 80},
+			  {"breed": "Standard Poodle", "score": 78}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Dachshund", "score": 10},
+			  {"breed": "Bulldog", "score": 12},
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Greyhound", "score": 22},
+			  {"breed": "Basset Hound", "score": 25},
+			  {"breed": "French Bulldog", "score": 28},
+			  {"breed": "Pomeranian", "score": 30},
+			  {"breed": "Yorkshire Terrier", "score": 32}
+			]
+		  },
+		  "tracks by scent tirelessly": {
+			"most_similar_breeds": [
+			  {"breed": "Bloodhound", "score": 99},
+			  {"breed": "Basset Hound", "score": 97},
+			  {"breed": "Beagle", "score": 96},
+			  {"breed": "American Foxhound", "score": 95},
+			  {"breed": "Black and Tan Coonhound", "score": 94},
+			  {"breed": "Otterhound", "score": 93},
+			  {"breed": "Harrier", "score": 92},
+			  {"breed": "Dachshund", "score": 90},
+			  {"breed": "Petit Basset Griffon Vendéen", "score": 88},
+			  {"breed": "Rhodesian Ridgeback", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Löwchen", "score": 22},
+			  {"breed": "Japanese Chin", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Bulldog", "score": 30},
+			  {"breed": "French Bulldog", "score": 32}
+			]
+		  },
+		  "herds by circling quietly": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 98},
+			  {"breed": "Australian Shepherd", "score": 97},
+			  {"breed": "Shetland Sheepdog", "score": 96},
+			  {"breed": "Finnish Lapphund", "score": 95},
+			  {"breed": "Icelandic Sheepdog", "score": 94},
+			  {"breed": "Pyrenean Shepherd", "score": 93},
+			  {"breed": "Polish Lowland Sheepdog", "score": 92},
+			  {"breed": "Old English Sheepdog", "score": 90},
+			  {"breed": "Rough Collie", "score": 88},
+			  {"breed": "Smooth Collie", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Dachshund", "score": 18},
+			  {"breed": "Beagle", "score": 20},
+			  {"breed": "Basset Hound", "score": 22},
+			  {"breed": "Bloodhound", "score": 25},
+			  {"breed": "Greyhound", "score": 28},
+			  {"breed": "Whippet", "score": 30},
+			  {"breed": "Afghan Hound", "score": 32},
+			  {"breed": "Saluki", "score": 35},
+			  {"breed": "Borzoi", "score": 38},
+			  {"breed": "Irish Wolfhound", "score": 40}
+			]
+		  },
+		  "herds by nipping heels": {
+			"most_similar_breeds": [
+			  {"breed": "Australian Cattle Dog", "score": 98},
+			  {"breed": "Pembroke Welsh Corgi", "score": 97},
+			  {"breed": "Cardigan Welsh Corgi", "score": 96},
+			  {"breed": "Swedish Vallhund", "score": 95},
+			  {"breed": "Norwegian Buhund", "score": 94},
+			  {"breed": "Lancashire Heeler", "score": 93},
+			  {"breed": "Miniature American Shepherd", "score": 92},
+			  {"breed": "Entlebucher Mountain Dog", "score": 90},
+			  {"breed": "Appenzeller Sennenhund", "score": 88},
+			  {"breed": "Bergamasco Sheepdog", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Dachshund", "score": 20},
+			  {"breed": "Beagle", "score": 22},
+			  {"breed": "Basset Hound", "score": 25},
+			  {"breed": "Bloodhound", "score": 28},
+			  {"breed": "Greyhound", "score": 30},
+			  {"breed": "Whippet", "score": 32},
+			  {"breed": "Afghan Hound", "score": 35},
+			  {"breed": "Saluki", "score": 38},
+			  {"breed": "Borzoi", "score": 40},
+			  {"breed": "Irish Wolfhound", "score": 42}
+			]
+		  },
+		  "guards livestock independently": {
+			"most_similar_breeds": [
+			  {"breed": "Tibetan Mastiff", "score": 99},
+			  {"breed": "Great Pyrenees", "score": 98},
+			  {"breed": "Anatolian Shepherd Dog", "score": 97},
+			  {"breed": "Komondor", "score": 96},
+			  {"breed": "Kuvasz", "score": 95},
+			  {"breed": "Akbash Dog", "score": 94},
+			  {"breed": "Briard", "score": 93},
+			  {"breed": "Bouvier des Flandres", "score": 92},
+			  {"breed": "Beauceron", "score": 90},
+			  {"breed": "Maremma Sheepdog", "score": 88}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 10},
+			  {"breed": "Labrador Retriever", "score": 12},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Bichon Frise", "score": 18},
+			  {"breed": "Maltese", "score": 20},
+			  {"breed": "Poodle", "score": 22},
+			  {"breed": "Toy Poodle", "score": 25},
+			  {"breed": "Havanese", "score": 28},
+			  {"breed": "Shih Tzu", "score": 30},
+			  {"breed": "Pug", "score": 32}
+			]
+		  },
+		  "patrols territory boundaries": {
+			"most_similar_breeds": [
+			  {"breed": "Tibetan Mastiff", "score": 97},
+			  {"breed": "Great Pyrenees", "score": 96},
+			  {"breed": "Anatolian Shepherd Dog", "score": 95},
+			  {"breed": "Komondor", "score": 94},
+			  {"breed": "Kuvasz", "score": 93},
+			  {"breed": "Akbash Dog", "score": 92},
+			  {"breed": "Maremma Sheepdog", "score": 90},
+			  {"breed": "Spanish Mastiff", "score": 88},
+			  {"breed": "Pyrenean Mastiff", "score": 87},
+			  {"breed": "Caucasian Shepherd Dog", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 12},
+			  {"breed": "Labrador Retriever", "score": 15},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 18},
+			  {"breed": "Bichon Frise", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Poodle", "score": 25},
+			  {"breed": "Toy Poodle", "score": 28},
+			  {"breed": "Havanese", "score": 30},
+			  {"breed": "Shih Tzu", "score": 32},
+			  {"breed": "Pug", "score": 35}
+			]
+		  },
+		  "hunts vermin underground": {
+			"most_similar_breeds": [
+			  {"breed": "Dachshund", "score": 98},
+			  {"breed": "Jack Russell Terrier", "score": 97},
+			  {"breed": "Parson Russell Terrier", "score": 96},
+			  {"breed": "Rat Terrier", "score": 95},
+			  {"breed": "Cairn Terrier", "score": 94},
+			  {"breed": "West Highland White Terrier", "score": 93},
+			  {"breed": "Norfolk Terrier", "score": 92},
+			  {"breed": "Norwich Terrier", "score": 90},
+			  {"breed": "Border Terrier", "score": 88},
+			  {"breed": "Lakeland Terrier", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 15},
+			  {"breed": "Labrador Retriever", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Poodle", "score": 28},
+			  {"breed": "Toy Poodle", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Shih Tzu", "score": 35},
+			  {"breed": "Pug", "score": 38}
+			]
+		  },
+		  "follows scent trails relentlessly": {
+			"most_similar_breeds": [
+			  {"breed": "Bloodhound", "score": 98},
+			  {"breed": "Basset Hound", "score": 96},
+			  {"breed": "Beagle", "score": 95},
+			  {"breed": "American Foxhound", "score": 94},
+			  {"breed": "Black and Tan Coonhound", "score": 93},
+			  {"breed": "Otterhound", "score": 92},
+			  {"breed": "Harrier", "score": 90},
+			  {"breed": "Dachshund", "score": 88},
+			  {"breed": "Petit Basset Griffon Vendéen", "score": 87},
+			  {"breed": "Rhodesian Ridgeback", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Maltese", "score": 20},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 22},
+			  {"breed": "Löwchen", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Bulldog", "score": 32},
+			  {"breed": "French Bulldog", "score": 35}
+			]
+		  },
+		  "works in freezing conditions": {
+			"most_similar_breeds": [
+			  {"breed": "Alaskan Malamute", "score": 97},
+			  {"breed": "Siberian Husky", "score": 96},
+			  {"breed": "Samoyed", "score": 95},
+			  {"breed": "Bernese Mountain Dog", "score": 94},
+			  {"breed": "Greater Swiss Mountain Dog", "score": 93},
+			  {"breed": "Saint Bernard", "score": 92},
+			  {"breed": "Newfoundland", "score": 90},
+			  {"breed": "Tibetan Mastiff", "score": 88},
+			  {"breed": "Keeshond", "score": 87},
+			  {"breed": "Finnish Lapphund", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 18},
+			  {"breed": "Greyhound", "score": 20},
+			  {"breed": "Whippet", "score": 22},
+			  {"breed": "Italian Greyhound", "score": 25},
+			  {"breed": "Dachshund", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Pug", "score": 32},
+			  {"breed": "Shih Tzu", "score": 35},
+			  {"breed": "Maltese", "score": 38},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 40}
+			]
+		  },
+		  "hunts large dangerous game": {
+			"most_similar_breeds": [
+			  {"breed": "Rhodesian Ridgeback", "score": 97},
+			  {"breed": "Dogo Argentino", "score": 96},
+			  {"breed": "Boerboel", "score": 95},
+			  {"breed": "Norwegian Elkhound", "score": 94},
+			  {"breed": "Plott Hound", "score": 93},
+			  {"breed": "American Leopard Hound", "score": 92},
+			  {"breed": "Karelian Bear Dog", "score": 90},
+			  {"breed": "Thai Ridgeback", "score": 88},
+			  {"breed": "Cane Corso", "score": 87},
+			  {"breed": "Presa Canario", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Chihuahua", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "English Toy Spaniel", "score": 38}
+			]
+		  },
+		  "flushes birds from brush": {
+			"most_similar_breeds": [
+			  {"breed": "English Springer Spaniel", "score": 95},
+			  {"breed": "Cocker Spaniel", "score": 94},
+			  {"breed": "Brittany Spaniel", "score": 93},
+			  {"breed": "Welsh Springer Spaniel", "score": 92},
+			  {"breed": "German Shorthaired Pointer", "score": 90},
+			  {"breed": "Pointer", "score": 88},
+			  {"breed": "Wirehaired Pointing Griffon", "score": 87},
+			  {"breed": "Vizsla", "score": 85},
+			  {"breed": "Weimaraner", "score": 83},
+			  {"breed": "English Setter", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "French Bulldog", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Pug", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Chihuahua", "score": 28},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "Japanese Chin", "score": 35},
+			  {"breed": "Löwchen", "score": 38}
+			]
+		  },
+		  "carries messages in combat": {
+			"most_similar_breeds": [
+			  {"breed": "German Shepherd", "score": 90},
+			  {"breed": "Doberman Pinscher", "score": 88},
+			  {"breed": "Airedale Terrier", "score": 85},
+			  {"breed": "Giant Schnauzer", "score": 83},
+			  {"breed": "Bouvier des Flandres", "score": 80},
+			  {"breed": "Rottweiler", "score": 78},
+			  {"breed": "Belgian Malinois", "score": 75},
+			  {"breed": "Standard Poodle", "score": 73},
+			  {"breed": "Boxer", "score": 70},
+			  {"breed": "Alaskan Malamute", "score": 68}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "searches avalanche debris": {
+			"most_similar_breeds": [
+			  {"breed": "Saint Bernard", "score": 98},
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Bernese Mountain Dog", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Greater Swiss Mountain Dog", "score": 90},
+			  {"breed": "Leonberger", "score": 88},
+			  {"breed": "Labrador Retriever", "score": 85},
+			  {"breed": "Golden Retriever", "score": 83},
+			  {"breed": "Belgian Malinois", "score": 80},
+			  {"breed": "Border Collie", "score": 78}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "guards property silently": {
+			"most_similar_breeds": [
+			  {"breed": "Tibetan Mastiff", "score": 98},
+			  {"breed": "Great Pyrenees", "score": 97},
+			  {"breed": "Anatolian Shepherd Dog", "score": 96},
+			  {"breed": "Komondor", "score": 95},
+			  {"breed": "Kuvasz", "score": 94},
+			  {"breed": "Akbash Dog", "score": 93},
+			  {"breed": "Maremma Sheepdog", "score": 92},
+			  {"breed": "Spanish Mastiff", "score": 90},
+			  {"breed": "Pyrenean Mastiff", "score": 88},
+			  {"breed": "Caucasian Shepherd Dog", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 22},
+			  {"breed": "Labrador Retriever", "score": 25},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Maltese", "score": 32},
+			  {"breed": "Poodle", "score": 35},
+			  {"breed": "Toy Poodle", "score": 38},
+			  {"breed": "Havanese", "score": 40},
+			  {"breed": "Shih Tzu", "score": 42},
+			  {"breed": "Pug", "score": 45}
+			]
+		  },
+		  "alerts to strangers vocally": {
+			"most_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 95},
+			  {"breed": "Pomeranian", "score": 94},
+			  {"breed": "Yorkshire Terrier", "score": 93},
+			  {"breed": "Miniature Pinscher", "score": 92},
+			  {"breed": "Miniature Schnauzer", "score": 90},
+			  {"breed": "West Highland White Terrier", "score": 88},
+			  {"breed": "Cairn Terrier", "score": 87},
+			  {"breed": "Scottish Terrier", "score": 85},
+			  {"breed": "Shih Tzu", "score": 83},
+			  {"breed": "Lhasa Apso", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Tibetan Mastiff", "score": 10},
+			  {"breed": "Great Pyrenees", "score": 12},
+			  {"breed": "Anatolian Shepherd Dog", "score": 15},
+			  {"breed": "Komondor", "score": 18},
+			  {"breed": "Kuvasz", "score": 20},
+			  {"breed": "Saint Bernard", "score": 22},
+			  {"breed": "Newfoundland", "score": 25},
+			  {"breed": "Bernese Mountain Dog", "score": 28},
+			  {"breed": "Bulldog", "score": 30},
+			  {"breed": "Basenji", "score": 32}
+			]
+		  },
+		  "hunts in packs cooperatively": {
+			"most_similar_breeds": [
+			  {"breed": "Beagle", "score": 96},
+			  {"breed": "American Foxhound", "score": 95},
+			  {"breed": "Harrier", "score": 94},
+			  {"breed": "Basset Hound", "score": 93},
+			  {"breed": "English Foxhound", "score": 92},
+			  {"breed": "Treeing Walker Coonhound", "score": 90},
+			  {"breed": "Bluetick Coonhound", "score": 88},
+			  {"breed": "Redbone Coonhound", "score": 87},
+			  {"breed": "Bloodhound", "score": 85},
+			  {"breed": "Otterhound", "score": 83}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "works until exhaustion": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "German Shepherd", "score": 93},
+			  {"breed": "Siberian Husky", "score": 92},
+			  {"breed": "Alaskan Malamute", "score": 90},
+			  {"breed": "Bloodhound", "score": 88},
+			  {"breed": "Bernese Mountain Dog", "score": 87},
+			  {"breed": "Rottweiler", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "French Bulldog", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Basset Hound", "score": 20},
+			  {"breed": "Chihuahua", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 28},
+			  {"breed": "Japanese Chin", "score": 30},
+			  {"breed": "Löwchen", "score": 32}
+			]
+		  },
+		  "kills rats and rodents": {
+			"most_similar_breeds": [
+			  {"breed": "Dachshund", "score": 97},
+			  {"breed": "Jack Russell Terrier", "score": 96},
+			  {"breed": "Rat Terrier", "score": 95},
+			  {"breed": "Cairn Terrier", "score": 94},
+			  {"breed": "West Highland White Terrier", "score": 93},
+			  {"breed": "Norfolk Terrier", "score": 92},
+			  {"breed": "Norwich Terrier", "score": 90},
+			  {"breed": "Border Terrier", "score": 88},
+			  {"breed": "Miniature Schnauzer", "score": 87},
+			  {"breed": "Yorkshire Terrier", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 15},
+			  {"breed": "Labrador Retriever", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Poodle", "score": 28},
+			  {"breed": "Toy Poodle", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Shih Tzu", "score": 35},
+			  {"breed": "Pug", "score": 38}
+			]
+		  },
+		  "dives underwater for prey": {
+			"most_similar_breeds": [
+			  {"breed": "Portuguese Water Dog", "score": 95},
+			  {"breed": "Spanish Water Dog", "score": 93},
+			  {"breed": "American Water Spaniel", "score": 90},
+			  {"breed": "Irish Water Spaniel", "score": 88},
+			  {"breed": "Lagotto Romagnolo", "score": 85},
+			  {"breed": "Barbet", "score": 83},
+			  {"breed": "Otterhound", "score": 80},
+			  {"breed": "Newfoundland", "score": 78},
+			  {"breed": "Labrador Retriever", "score": 75},
+			  {"breed": "Chesapeake Bay Retriever", "score": 73}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Dachshund", "score": 15},
+			  {"breed": "Bulldog", "score": 18},
+			  {"breed": "Chihuahua", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Pug", "score": 25},
+			  {"breed": "Greyhound", "score": 28},
+			  {"breed": "Basset Hound", "score": 30},
+			  {"breed": "French Bulldog", "score": 32},
+			  {"breed": "Pomeranian", "score": 35},
+			  {"breed": "Yorkshire Terrier", "score": 38}
+			]
+		  },
+		  "carries heavy loads": {
+			"most_similar_breeds": [
+			  {"breed": "Saint Bernard", "score": 95},
+			  {"breed": "Bernese Mountain Dog", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Greater Swiss Mountain Dog", "score": 92},
+			  {"breed": "Tibetan Mastiff", "score": 90},
+			  {"breed": "Leonberger", "score": 88},
+			  {"breed": "Alaskan Malamute", "score": 87},
+			  {"breed": "Great Pyrenees", "score": 85},
+			  {"breed": "Rottweiler", "score": 83},
+			  {"breed": "Mastiff", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "pulls sleds in teams": {
+			"most_similar_breeds": [
+			  {"breed": "Alaskan Malamute", "score": 98},
+			  {"breed": "Siberian Husky", "score": 97},
+			  {"breed": "Samoyed", "score": 96},
+			  {"breed": "Chinook", "score": 95},
+			  {"breed": "Canadian Eskimo Dog", "score": 94},
+			  {"breed": "Greenland Dog", "score": 93},
+			  {"breed": "Sakhalin Husky", "score":92},
+			  {"breed": "Greater Swiss Mountain Dog", "score": 90},
+			  {"breed": "Bernese Mountain Dog", "score": 88},
+			  {"breed": "Tamaskan Dog", "score": 87}
+  
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "navigates rocky terrain": {
+			"most_similar_breeds": [
+			  {"breed": "Ibizan Hound", "score": 95},
+			  {"breed": "Pharaoh Hound", "score": 94},
+			  {"breed": "Afghan Hound", "score": 93},
+			  {"breed": "Saluki", "score": 92},
+			  {"breed": "Borzoi", "score": 90},
+			  {"breed": "Whippet", "score": 88},
+			  {"breed": "Greyhound", "score": 87},
+			  {"breed": "Scottish Deerhound", "score": 85},
+			  {"breed": "Irish Wolfhound", "score": 83},
+			  {"breed": "Basenji", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "French Bulldog", "score": 18},
+			  {"breed": "Basset Hound", "score": 20},
+			  {"breed": "Pug", "score": 22},
+			  {"breed": "Shih Tzu", "score": 25},
+			  {"breed": "Chihuahua", "score": 28},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Maltese", "score": 32},
+			  {"breed": "Japanese Chin", "score": 35},
+			  {"breed": "Löwchen", "score": 38}
+			]
+		  },
+		  "swims in cold water": {
+			"most_similar_breeds": [
+			  {"breed": "Newfoundland", "score": 98},
+			  {"breed": "Chesapeake Bay Retriever", "score": 97},
+			  {"breed": "Portuguese Water Dog", "score": 96},
+			  {"breed": "Labrador Retriever", "score": 95},
+			  {"breed": "Otterhound", "score": 94},
+			  {"breed": "Irish Water Spaniel", "score": 93},
+			  {"breed": "American Water Spaniel", "score": 92},
+			  {"breed": "Spanish Water Dog", "score": 90},
+			  {"breed": "Lagotto Romagnolo", "score": 88},
+			  {"breed": "Barbet", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Dachshund", "score": 12},
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "Chihuahua", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Pug", "score": 22},
+			  {"breed": "Greyhound", "score": 25},
+			  {"breed": "Basset Hound", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Pomeranian", "score": 32},
+			  {"breed": "Yorkshire Terrier", "score": 35}
+			]
+		  },
+		  "maintains constant vigilance": {
+			"most_similar_breeds": [
+			  {"breed": "German Shepherd", "score": 97},
+			  {"breed": "Doberman Pinscher", "score": 96},
+			  {"breed": "Rottweiler", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Giant Schnauzer", "score": 93},
+			  {"breed": "Standard Schnauzer", "score": 92},
+			  {"breed": "Akita", "score": 90},
+			  {"breed": "Tibetan Mastiff", "score": 88},
+			  {"breed": "Great Pyrenees", "score": 87},
+			  {"breed": "Kuvasz", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Bichon Frise", "score": 25},
+			  {"breed": "Havanese", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "English Toy Spaniel", "score": 35},
+			  {"breed": "French Bulldog", "score": 38}
+			]
+		  },
+		  "works far from handler": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 95},
+			  {"breed": "Australian Shepherd", "score": 94},
+			  {"breed": "Shetland Sheepdog", "score": 93},
+			  {"breed": "Australian Cattle Dog", "score": 92},
+			  {"breed": "Belgian Malinois", "score": 90},
+			  {"breed": "German Shepherd", "score": 88},
+			  {"breed": "Alaskan Malamute", "score": 87},
+			  {"breed": "Siberian Husky", "score": 85},
+			  {"breed": "Great Pyrenees", "score": 83},
+			  {"breed": "Anatolian Shepherd Dog", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "follows hand signals silently": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Doberman Pinscher", "score": 93},
+			  {"breed": "Poodle", "score": 92},
+			  {"breed": "Labrador Retriever", "score": 90},
+			  {"breed": "Golden Retriever", "score": 88},
+			  {"breed": "Australian Cattle Dog", "score": 87},
+			  {"breed": "Shetland Sheepdog", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "responds to whistle commands": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 96},
+			  {"breed": "Australian Shepherd", "score": 95},
+			  {"breed": "German Shepherd", "score": 94},
+			  {"breed": "Belgian Malinois", "score": 93},
+			  {"breed": "Labrador Retriever", "score": 92},
+			  {"breed": "Golden Retriever", "score": 90},
+			  {"breed": "Poodle", "score": 88},
+			  {"breed": "Doberman Pinscher", "score": 87},
+			  {"breed": "Australian Cattle Dog", "score": 85},
+			  {"breed": "Shetland Sheepdog", "score": 83}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "guides blind people": {
+			"most_similar_breeds": [
+			  {"breed": "Labrador Retriever", "score": 95},
+			  {"breed": "Golden Retriever", "score": 94},
+			  {"breed": "German Shepherd", "score": 93},
+			  {"breed": "Poodle", "score": 92},
+			  {"breed": "Standard Poodle", "score": 90},
+			  {"breed": "Labradoodle", "score": 88},
+			  {"breed": "Goldendoodle", "score": 87},
+			  {"breed": "Bernese Mountain Dog", "score": 85},
+			  {"breed": "Boxer", "score": 83},
+			  {"breed": "Smooth Collie", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "assists mobility impaired": {
+			"most_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Greater Swiss Mountain Dog", "score": 92},
+			  {"breed": "Great Dane", "score": 90},
+			  {"breed": "Leonberger", "score": 88},
+			  {"breed": "Labrador Retriever", "score": 87},
+			  {"breed": "Golden Retriever", "score": 85},
+			  {"breed": "German Shepherd", "score": 83},
+			  {"breed": "Standard Poodle", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "detects medical conditions": {
+			"most_similar_breeds": [
+			  {"breed": "Labrador Retriever", "score": 90},
+			  {"breed": "Golden Retriever", "score": 88},
+			  {"breed": "German Shepherd", "score": 87},
+			  {"breed": "Poodle", "score": 85},
+			  {"breed": "Border Collie", "score": 83},
+			  {"breed": "Australian Shepherd", "score": 80},
+			  {"breed": "Shetland Sheepdog", "score": 78},
+			  {"breed": "Cocker Spaniel", "score": 75},
+			  {"breed": "English Springer Spaniel", "score": 73},
+			  {"breed": "Brittany Spaniel", "score": 70}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "comforts therapy patients": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 94},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 93},
+			  {"breed": "Poodle", "score": 92},
+			  {"breed": "French Bulldog", "score": 90},
+			  {"breed": "Pug", "score": 88},
+			  {"breed": "Bichon Frise", "score": 87},
+			  {"breed": "Greyhound", "score": 85},
+			  {"breed": "Bernese Mountain Dog", "score": 83},
+			  {"breed": "Newfoundland", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 20},
+			  {"breed": "Shiba Inu", "score": 22},
+			  {"breed": "Akita", "score": 25},
+			  {"breed": "Chow Chow", "score": 28},
+			  {"breed": "Basenji", "score": 30},
+			  {"breed": "Afghan Hound", "score": 32},
+			  {"breed": "Tibetan Mastiff", "score": 35},
+			  {"breed": "Great Pyrenees", "score": 38},
+			  {"breed": "Chinese Shar-Pei", "score": 40},
+			  {"breed": "Rhodesian Ridgeback", "score": 42}
+			]
+		  },
+		  "rescues drowning victims": {
+			"most_similar_breeds": [
+			  {"breed": "Newfoundland", "score": 99},
+			  {"breed": "Portuguese Water Dog", "score": 97},
+			  {"breed": "Labrador Retriever", "score": 95},
+			  {"breed": "Chesapeake Bay Retriever", "score": 93},
+			  {"breed": "Leonberger", "score": 90},
+			  {"breed": "Landseer", "score": 88},
+			  {"breed": "Golden Retriever", "score": 85},
+			  {"breed": "Flat-Coated Retriever", "score": 83},
+			  {"breed": "Irish Water Spaniel", "score": 80},
+			  {"breed": "American Water Spaniel", "score": 78}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "finds lost people": {
+			"most_similar_breeds": [
+			  {"breed": "Bloodhound", "score": 98},
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 93},
+			  {"breed": "Golden Retriever", "score": 92},
+			  {"breed": "Belgian Malinois", "score": 90},
+			  {"breed": "Border Collie", "score": 88},
+			  {"breed": "Saint Bernard", "score": 87},
+			  {"breed": "Bernese Mountain Dog", "score": 85},
+			  {"breed": "Newfoundland", "score": 83},
+			  {"breed": "Basset Hound", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "detects illegal substances": {
+			"most_similar_breeds": [
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Labrador Retriever", "score": 93},
+			  {"breed": "Golden Retriever", "score": 92},
+			  {"breed": "Dutch Shepherd", "score": 90},
+			  {"breed": "German Shorthaired Pointer", "score": 88},
+			  {"breed": "Border Collie", "score": 87},
+			  {"breed": "Springer Spaniel", "score": 85},
+			  {"breed": "Cocker Spaniel", "score": 83},
+			  {"breed": "Bloodhound", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Maltese", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "French Bulldog", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Pomeranian", "score": 38}
+			]
+		  },
+		  "clears mines and explosives": {
+			"most_similar_breeds": [
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Dutch Shepherd", "score": 93},
+			  {"breed": "Labrador Retriever", "score": 90},
+			  {"breed": "German Shorthaired Pointer", "score": 88},
+			  {"breed": "Springer Spaniel", "score": 85},
+			  {"breed": "Border Collie", "score": 83},
+			  {"breed": "Giant Schnauzer", "score": 80},
+			  {"breed": "Doberman Pinscher", "score": 78},
+			  {"breed": "Rottweiler", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 10},
+			  {"breed": "Pug", "score": 12},
+			  {"breed": "Shih Tzu", "score": 15},
+			  {"breed": "Maltese", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Pomeranian", "score": 32}
+			]
+		  },
+		  "performs repetitive tasks": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 95},
+			  {"breed": "Australian Shepherd", "score": 94},
+			  {"breed": "German Shepherd", "score": 93},
+			  {"breed": "Belgian Malinois", "score": 92},
+			  {"breed": "Labrador Retriever", "score": 90},
+			  {"breed": "Poodle", "score": 88},
+			  {"breed": "Golden Retriever", "score": 87},
+			  {"breed": "Australian Cattle Dog", "score": 85},
+			  {"breed": "Shetland Sheepdog", "score": 83},
+			  {"breed": "Doberman Pinscher", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 20},
+			  {"breed": "Pug", "score": 22},
+			  {"breed": "Shih Tzu", "score": 25},
+			  {"breed": "Maltese", "score": 28},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "French Bulldog", "score": 35},
+			  {"breed": "Japanese Chin", "score": 38},
+			  {"breed": "Löwchen", "score": 40},
+			  {"breed": "Pomeranian", "score": 42}
+			]
+		  },
+		  "anxious and nervous": {
+			"most_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 75},
+			  {"breed": "Italian Greyhound", "score": 70},
+			  {"breed": "Miniature Pinscher", "score": 68},
+			  {"breed": "Yorkshire Terrier", "score": 65},
+			  {"breed": "Toy Poodle", "score": 63},
+			  {"breed": "Papillon", "score": 60},
+			  {"breed": "Japanese Chin", "score": 58},
+			  {"breed": "Chinese Crested", "score": 55},
+			  {"breed": "Whippet", "score": 53},
+			  {"breed": "Greyhound", "score": 50}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 10},
+			  {"breed": "Saint Bernard", "score": 12},
+			  {"breed": "Newfoundland", "score": 15},
+			  {"breed": "Great Pyrenees", "score": 18},
+			  {"breed": "Tibetan Mastiff", "score": 20},
+			  {"breed": "Bulldog", "score": 22},
+			  {"breed": "Basset Hound", "score": 25},
+			  {"breed": "Leonberger", "score": 28},
+			  {"breed": "Mastiff", "score": 30},
+			  {"breed": "Bullmastiff", "score": 32}
+			]
+		  },
+		  "calm and collected": {
+			"most_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Great Pyrenees", "score": 92},
+			  {"breed": "Tibetan Mastiff", "score": 90},
+			  {"breed": "Bulldog", "score": 88},
+			  {"breed": "Basset Hound", "score": 87},
+			  {"breed": "Great Dane", "score": 85},
+			  {"breed": "Irish Wolfhound", "score": 83},
+			  {"breed": "Leonberger", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 25},
+			  {"breed": "Australian Shepherd", "score": 28},
+			  {"breed": "Australian Cattle Dog", "score": 30},
+			  {"breed": "Jack Russell Terrier", "score": 32},
+			  {"breed": "Parson Russell Terrier", "score": 35},
+			  {"breed": "Rat Terrier", "score": 38},
+			  {"breed": "Miniature Pinscher", "score": 40},
+			  {"breed": "Fox Terrier", "score": 42},
+			  {"breed": "Schipperke", "score": 45},
+			  {"breed": "Belgian Malinois", "score": 48}
+			]
+		  },
+		  "excitable and energetic": {
+			"most_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 97},
+			  {"breed": "Parson Russell Terrier", "score": 96},
+			  {"breed": "Rat Terrier", "score": 95},
+			  {"breed": "Border Collie", "score": 94},
+			  {"breed": "Australian Shepherd", "score": 93},
+			  {"breed": "Australian Cattle Dog", "score": 92},
+			  {"breed": "Miniature Pinscher", "score": 90},
+			  {"breed": "Fox Terrier", "score": 88},
+			  {"breed": "Schipperke", "score": 87},
+			  {"breed": "Dalmatian", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 20},
+			  {"breed": "Basset Hound", "score": 22},
+			  {"breed": "Saint Bernard", "score": 25},
+			  {"breed": "Newfoundland", "score": 28},
+			  {"breed": "Bernese Mountain Dog", "score": 30},
+			  {"breed": "Great Pyrenees", "score": 32},
+			  {"breed": "Tibetan Mastiff", "score": 35},
+			  {"breed": "Great Dane", "score": 38},
+			  {"breed": "Irish Wolfhound", "score": 40},
+			  {"breed": "Clumber Spaniel", "score": 42}
+			]
+		  },
+		  "composed under pressure": {
+			"most_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Great Pyrenees", "score": 92},
+			  {"breed": "Tibetan Mastiff", "score": 90},
+			  {"breed": "Leonberger", "score": 88},
+			  {"breed": "Mastiff", "score": 87},
+			  {"breed": "Bullmastiff", "score": 85},
+			  {"breed": "Rottweiler", "score": 83},
+			  {"breed": "Doberman Pinscher", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 25},
+			  {"breed": "Italian Greyhound", "score": 28},
+			  {"breed": "Miniature Pinscher", "score": 30},
+			  {"breed": "Yorkshire Terrier", "score": 32},
+			  {"breed": "Toy Poodle", "score": 35},
+			  {"breed": "Papillon", "score": 38},
+			  {"breed": "Japanese Chin", "score": 40},
+			  {"breed": "Chinese Crested", "score": 42},
+			  {"breed": "Whippet", "score": 45},
+			  {"breed": "Greyhound", "score": 48}
+			]
+		  },
+		  "intense and focused": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "German Shepherd", "score": 93},
+			  {"breed": "Doberman Pinscher", "score": 92},
+			  {"breed": "Rottweiler", "score": 90},
+			  {"breed": "Jack Russell Terrier", "score": 88},
+			  {"breed": "Parson Russell Terrier", "score": 87},
+			  {"breed": "Rat Terrier", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Pug", "score": 25},
+			  {"breed": "Maltese", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Japanese Chin", "score": 38},
+			  {"breed": "English Toy Spaniel", "score": 40},
+			  {"breed": "French Bulldog", "score": 42}
+			]
+		  },
+		  "easygoing and relaxed": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 97},
+			  {"breed": "Basset Hound", "score": 96},
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Great Dane", "score": 92},
+			  {"breed": "Irish Wolfhound", "score": 90},
+			  {"breed": "Golden Retriever", "score": 88},
+			  {"breed": "Labrador Retriever", "score": 87},
+			  {"breed": "Clumber Spaniel", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 20},
+			  {"breed": "Parson Russell Terrier", "score": 22},
+			  {"breed": "Rat Terrier", "score": 25},
+			  {"breed": "Border Collie", "score": 28},
+			  {"breed": "Australian Shepherd", "score": 30},
+			  {"breed": "Australian Cattle Dog", "score": 32},
+			  {"breed": "Miniature Pinscher", "score": 35},
+			  {"breed": "Fox Terrier", "score": 38},
+			  {"breed": "Schipperke", "score": 40},
+			  {"breed": "Belgian Malinois", "score": 42}
+			]
+		  },
+		  "stoic and unflappable": {
+			"most_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Great Pyrenees", "score": 92},
+			  {"breed": "Tibetan Mastiff", "score": 90},
+			  {"breed": "Leonberger", "score": 88},
+			  {"breed": "Mastiff", "score": 87},
+			  {"breed": "Bullmastiff", "score": 85},
+			  {"breed": "Rottweiler", "score": 83},
+			  {"breed": "Akita", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 25},
+			  {"breed": "Italian Greyhound", "score": 28},
+			  {"breed": "Miniature Pinscher", "score": 30},
+			  {"breed": "Yorkshire Terrier", "score": 32},
+			  {"breed": "Toy Poodle", "score": 35},
+			  {"breed": "Papillon", "score": 38},
+			  {"breed": "Japanese Chin", "score": 40},
+			  {"breed": "Chinese Crested", "score": 42},
+			  {"breed": "Whippet", "score": 45},
+			  {"breed": "Greyhound", "score": 48}
+			]
+		  },
+		  "dramatic and expressive": {
+			"most_similar_breeds": [
+			  {"breed": "Poodle", "score": 85},
+			  {"breed": "Toy Poodle", "score": 83},
+			  {"breed": "Miniature Poodle", "score": 80},
+			  {"breed": "Bichon Frise", "score": 78},
+			  {"breed": "Pomeranian", "score": 75},
+			  {"breed": "Shih Tzu", "score": 73},
+			  {"breed": "Yorkshire Terrier", "score": 70},
+			  {"breed": "Maltese", "score": 68},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 65},
+			  {"breed": "Papillon", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 20},
+			  {"breed": "Saint Bernard", "score": 22},
+			  {"breed": "Newfoundland", "score": 25},
+			  {"breed": "Great Pyrenees", "score": 28},
+			  {"breed": "Tibetan Mastiff", "score": 30},
+			  {"breed": "Bulldog", "score": 32},
+			  {"breed": "Basset Hound", "score": 35},
+			  {"breed": "Akita", "score": 38},
+			  {"breed": "Shiba Inu", "score": 40},
+			  {"breed": "Chow Chow", "score": 42}
+			]
+		  },
+		  "patient with children": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 94},
+			  {"breed": "Bernese Mountain Dog", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Saint Bernard", "score": 90},
+			  {"breed": "Bulldog", "score": 88},
+			  {"breed": "Basset Hound", "score": 87},
+			  {"breed": "Irish Wolfhound", "score": 85},
+			  {"breed": "Great Dane", "score": 83},
+			  {"breed": "Boxer", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 25},
+			  {"breed": "Shiba Inu", "score": 28},
+			  {"breed": "Akita", "score": 30},
+			  {"breed": "Chow Chow", "score": 32},
+			  {"breed": "Chinese Shar-Pei", "score": 35},
+			  {"breed": "Basenji", "score": 38},
+			  {"breed": "Afghan Hound", "score": 40},
+			  {"breed": "Tibetan Mastiff", "score": 42},
+			  {"breed": "Great Pyrenees", "score": 45},
+			  {"breed": "Rhodesian Ridgeback", "score": 48}
+			]
+		  },
+		  "restless and fidgety": {
+			"most_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 95},
+			  {"breed": "Parson Russell Terrier", "score": 94},
+			  {"breed": "Rat Terrier", "score": 93},
+			  {"breed": "Border Collie", "score": 92},
+			  {"breed": "Australian Shepherd", "score": 90},
+			  {"breed": "Australian Cattle Dog", "score": 88},
+			  {"breed": "Miniature Pinscher", "score": 87},
+			  {"breed": "Fox Terrier", "score": 85},
+			  {"breed": "Schipperke", "score": 83},
+			  {"breed": "Belgian Malinois", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 12},
+			  {"breed": "Basset Hound", "score": 15},
+			  {"breed": "Saint Bernard", "score": 18},
+			  {"breed": "Newfoundland", "score": 20},
+			  {"breed": "Bernese Mountain Dog", "score": 22},
+			  {"breed": "Great Pyrenees", "score": 25},
+			  {"breed": "Tibetan Mastiff", "score": 28},
+			  {"breed": "Great Dane", "score": 30},
+			  {"breed": "Irish Wolfhound", "score": 32},
+			  {"breed": "Clumber Spaniel", "score": 35}
+			]
+		  },
+		  "energetic and active": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Siberian Husky", "score": 94},
+			  {"breed": "Alaskan Malamute", "score": 93},
+			  {"breed": "Dalmatian", "score": 92},
+			  {"breed": "Jack Russell Terrier", "score": 90},
+			  {"breed": "Parson Russell Terrier", "score": 88},
+			  {"breed": "German Shorthaired Pointer", "score": 87},
+			  {"breed": "Vizsla", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 30},
+			  {"breed": "Basset Hound", "score": 32},
+			  {"breed": "Saint Bernard", "score": 35},
+			  {"breed": "Newfoundland", "score": 38},
+			  {"breed": "Bernese Mountain Dog", "score": 40},
+			  {"breed": "Great Pyrenees", "score": 42},
+			  {"breed": "Tibetan Mastiff", "score": 45},
+			  {"breed": "Great Dane", "score": 48},
+			  {"breed": "Irish Wolfhound", "score": 50},
+			  {"breed": "Clumber Spaniel", "score": 52}
+			]
+		  },
+		  "mellow and low-energy": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 95},
+			  {"breed": "Basset Hound", "score": 94},
+			  {"breed": "Saint Bernard", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Bernese Mountain Dog", "score": 90},
+			  {"breed": "Great Dane", "score": 88},
+			  {"breed": "Irish Wolfhound", "score": 87},
+			  {"breed": "Clumber Spaniel", "score": 85},
+			  {"breed": "Greyhound", "score": 83},
+			  {"breed": "French Bulldog", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 20},
+			  {"breed": "Parson Russell Terrier", "score": 22},
+			  {"breed": "Rat Terrier", "score": 25},
+			  {"breed": "Border Collie", "score": 28},
+			  {"breed": "Australian Shepherd", "score": 30},
+			  {"breed": "Australian Cattle Dog", "score": 32},
+			  {"breed": "Miniature Pinscher", "score": 35},
+			  {"breed": "Fox Terrier", "score": 38},
+			  {"breed": "Schipperke", "score": 40},
+			  {"breed": "Belgian Malinois", "score": 42}
+			]
+		  },
+		  "hyperactive needs constant exercise": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Siberian Husky", "score": 94},
+			  {"breed": "Alaskan Malamute", "score": 93},
+			  {"breed": "Jack Russell Terrier", "score": 92},
+			  {"breed": "Parson Russell Terrier", "score": 90},
+			  {"breed": "Dalmatian", "score": 88},
+			  {"breed": "Weimaraner", "score": 87},
+			  {"breed": "German Shorthaired Pointer", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "Basset Hound", "score": 12},
+			  {"breed": "Saint Bernard", "score": 15},
+			  {"breed": "Newfoundland", "score": 18},
+			  {"breed": "Bernese Mountain Dog", "score": 20},
+			  {"breed": "Great Pyrenees", "score": 22},
+			  {"breed": "Tibetan Mastiff", "score": 25},
+			  {"breed": "Great Dane", "score": 28},
+			  {"breed": "Irish Wolfhound", "score": 30},
+			  {"breed": "Clumber Spaniel", "score": 32}
+			]
+		  },
+		  "relaxed and calm": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 97},
+			  {"breed": "Basset Hound", "score": 96},
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Saint Bernard", "score": 94},
+			  {"breed": "Newfoundland", "score": 93},
+			  {"breed": "Great Dane", "score": 92},
+			  {"breed": "Irish Wolfhound", "score": 90},
+			  {"breed": "Golden Retriever", "score": 88},
+			  {"breed": "Labrador Retriever", "score": 87},
+			  {"breed": "Clumber Spaniel", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 20},
+			  {"breed": "Parson Russell Terrier", "score": 22},
+			  {"breed": "Rat Terrier", "score": 25},
+			  {"breed": "Border Collie", "score": 28},
+			  {"breed": "Australian Shepherd", "score": 30},
+			  {"breed": "Australian Cattle Dog", "score": 32},
+			  {"breed": "Miniature Pinscher", "score": 35},
+			  {"breed": "Fox Terrier", "score": 38},
+			  {"breed": "Schipperke", "score": 40},
+			  {"breed": "Belgian Malinois", "score": 42}
+			]
+		  },
+		  "boisterous and rowdy": {
+			"most_similar_breeds": [
+			  {"breed": "Bull Terrier", "score": 95},
+			  {"breed": "Boxer", "score": 94},
+			  {"breed": "Staffordshire Bull Terrier", "score": 93},
+			  {"breed": "American Staffordshire Terrier", "score": 92},
+			  {"breed": "Jack Russell Terrier", "score": 90},
+			  {"breed": "Parson Russell Terrier", "score": 88},
+			  {"breed": "Fox Terrier", "score": 87},
+			  {"breed": "Airedale Terrier", "score": 85},
+			  {"breed": "Miniature Pinscher", "score": 83},
+			  {"breed": "Schipperke", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "Basset Hound", "score": 18},
+			  {"breed": "Saint Bernard", "score": 20},
+			  {"breed": "Newfoundland", "score": 22},
+			  {"breed": "Bernese Mountain Dog", "score": 25},
+			  {"breed": "Great Pyrenees", "score": 28},
+			  {"breed": "Tibetan Mastiff", "score": 30},
+			  {"breed": "Great Dane", "score": 32},
+			  {"breed": "Irish Wolfhound", "score": 35},
+			  {"breed": "Clumber Spaniel", "score": 38}
+			]
+		  },
+		  "placid and peaceful": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 96},
+			  {"breed": "Basset Hound", "score": 95},
+			  {"breed": "Bernese Mountain Dog", "score": 94},
+			  {"breed": "Saint Bernard", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Great Dane", "score": 90},
+			  {"breed": "Irish Wolfhound", "score": 88},
+			  {"breed": "Great Pyrenees", "score": 87},
+			  {"breed": "Tibetan Mastiff", "score": 85},
+			  {"breed": "Clumber Spaniel", "score": 83}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 12},
+			  {"breed": "Parson Russell Terrier", "score": 15},
+			  {"breed": "Rat Terrier", "score": 18},
+			  {"breed": "Border Collie", "score": 20},
+			  {"breed": "Australian Shepherd", "score": 22},
+			  {"breed": "Australian Cattle Dog", "score": 25},
+			  {"breed": "Miniature Pinscher", "score": 28},
+			  {"breed": "Fox Terrier", "score": 30},
+			  {"breed": "Schipperke", "score": 32},
+			  {"breed": "Belgian Malinois", "score": 35}
+			]
+		  },
+		  "vigorous and athletic": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 98},
+			  {"breed": "Australian Shepherd", "score": 97},
+			  {"breed": "Australian Cattle Dog", "score": 96},
+			  {"breed": "Siberian Husky", "score": 95},
+			  {"breed": "Alaskan Malamute", "score": 94},
+			  {"breed": "Dalmatian", "score": 93},
+			  {"breed": "Vizsla", "score": 92},
+			  {"breed": "Weimaraner", "score": 90},
+			  {"breed": "German Shorthaired Pointer", "score": 88},
+			  {"breed": "Pointer", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 25},
+			  {"breed": "Basset Hound", "score": 28},
+			  {"breed": "Saint Bernard", "score": 30},
+			  {"breed": "Newfoundland", "score": 32},
+			  {"breed": "Bernese Mountain Dog", "score": 35},
+			  {"breed": "Great Pyrenees", "score": 38},
+			  {"breed": "Tibetan Mastiff", "score": 40},
+			  {"breed": "Great Dane", "score": 42},
+			  {"breed": "Irish Wolfhound", "score": 45},
+			  {"breed": "Clumber Spaniel", "score": 48}
+			]
+		  },
+		  "lethargic and lazy": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 95},
+			  {"breed": "Basset Hound", "score": 94},
+			  {"breed": "Saint Bernard", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Bernese Mountain Dog", "score": 90},
+			  {"breed": "Great Dane", "score": 88},
+			  {"breed": "Irish Wolfhound", "score": 87},
+			  {"breed": "Clumber Spaniel", "score": 85},
+			  {"breed": "French Bulldog", "score": 83},
+			  {"breed": "Chow Chow", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 15},
+			  {"breed": "Parson Russell Terrier", "score": 18},
+			  {"breed": "Rat Terrier", "score": 20},
+			  {"breed": "Border Collie", "score": 22},
+			  {"breed": "Australian Shepherd", "score": 25},
+			  {"breed": "Australian Cattle Dog", "score": 28},
+			  {"breed": "Miniature Pinscher", "score": 30},
+			  {"breed": "Fox Terrier", "score": 32},
+			  {"breed": "Schipperke", "score": 35},
+			  {"breed": "Belgian Malinois", "score": 38}
+			]
+		  },
+		  "needs constant exercise": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Siberian Husky", "score": 94},
+			  {"breed": "Alaskan Malamute", "score": 93},
+			  {"breed": "Dalmatian", "score": 92},
+			  {"breed": "Jack Russell Terrier", "score": 90},
+			  {"breed": "Parson Russell Terrier", "score": 88},
+			  {"breed": "Weimaraner", "score": 87},
+			  {"breed": "German Shorthaired Pointer", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 28},
+			  {"breed": "Basset Hound", "score": 30},
+			  {"breed": "Saint Bernard", "score": 32},
+			  {"breed": "Newfoundland", "score": 35},
+			  {"breed": "Bernese Mountain Dog", "score": 38},
+			  {"breed": "Great Pyrenees", "score": 40},
+			  {"breed": "Tibetan Mastiff", "score": 42},
+			  {"breed": "Great Dane", "score": 45},
+			  {"breed": "Irish Wolfhound", "score": 48},
+			  {"breed": "Clumber Spaniel", "score": 50}
+			]
+		  },
+		  "content being lazy indoors": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 97},
+			  {"breed": "Basset Hound", "score": 96},
+			  {"breed": "French Bulldog", "score": 95},
+			  {"breed": "Greyhound", "score": 94},
+			  {"breed": "Great Dane", "score": 93},
+			  {"breed": "Irish Wolfhound", "score": 92},
+			  {"breed": "Shih Tzu", "score": 90},
+			  {"breed": "Pug", "score": 88},
+			  {"breed": "Chow Chow", "score": 87},
+			  {"breed": "Japanese Chin", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 10},
+			  {"breed": "Australian Shepherd", "score": 12},
+			  {"breed": "Australian Cattle Dog", "score": 15},
+			  {"breed": "Siberian Husky", "score": 18},
+			  {"breed": "Alaskan Malamute", "score": 20},
+			  {"breed": "Jack Russell Terrier", "score": 22},
+			  {"breed": "Parson Russell Terrier", "score": 25},
+			  {"breed": "Dalmatian", "score": 28},
+			  {"breed": "Weimaraner", "score": 30},
+			  {"breed": "German Shorthaired Pointer", "score": 32}
+			]
+		  },
+		  "destroys furniture when bored": {
+			"most_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 85},
+			  {"breed": "Alaskan Malamute", "score": 83},
+			  {"breed": "Border Collie", "score": 80},
+			  {"breed": "Australian Shepherd", "score": 78},
+			  {"breed": "Jack Russell Terrier", "score": 75},
+			  {"breed": "Parson Russell Terrier", "score": 73},
+			  {"breed": "German Shepherd", "score": 70},
+			  {"breed": "Belgian Malinois", "score": 68},
+			  {"breed": "Doberman Pinscher", "score": 65},
+			  {"breed": "Rottweiler", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "Basset Hound", "score": 12},
+			  {"breed": "French Bulldog", "score": 15},
+			  {"breed": "Pug", "score": 18},
+			  {"breed": "Shih Tzu", "score": 20},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 22},
+			  {"breed": "Bichon Frise", "score": 25},
+			  {"breed": "Maltese", "score": 28},
+			  {"breed": "Japanese Chin", "score": 30},
+			  {"breed": "Löwchen", "score": 32}
+			]
+		  },
+  "sheds year round heavily": {
+			"most_similar_breeds": [
+			  {"breed": "Alaskan Malamute", "score": 95},
+			  {"breed": "Siberian Husky", "score": 94},
+			  {"breed": "German Shepherd", "score": 93},
+			  {"breed": "Bernese Mountain Dog", "score": 92},
+			  {"breed": "Great Pyrenees", "score": 90},
+			  {"breed": "Samoyed", "score": 88},
+			  {"breed": "Akita", "score": 87},
+			  {"breed": "Chow Chow", "score": 85},
+			  {"breed": "Golden Retriever", "score": 83},
+			  {"breed": "Labrador Retriever", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Poodle", "score": 10},
+			  {"breed": "Bichon Frise", "score": 12},
+			  {"breed": "Maltese", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Yorkshire Terrier", "score": 20},
+			  {"breed": "Soft Coated Wheaten Terrier", "score": 22},
+			  {"breed": "Kerry Blue Terrier", "score": 25},
+			  {"breed": "Portuguese Water Dog", "score": 28},
+			  {"breed": "Afghan Hound", "score": 30},
+			  {"breed": "Chinese Crested", "score": 32}
+			]
+		  },
+		  "adapts well to apartments": {
+			"most_similar_breeds": [
+			  {"breed": "French Bulldog", "score": 95},
+			  {"breed": "Bulldog", "score": 94},
+			  {"breed": "Pug", "score": 93},
+			  {"breed": "Shih Tzu", "score": 92},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 90},
+			  {"breed": "Bichon Frise", "score": 88},
+			  {"breed": "Maltese", "score": 87},
+			  {"breed": "Japanese Chin", "score": 85},
+			  {"breed": "Greyhound", "score": 83},
+			  {"breed": "Chihuahua", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 15},
+			  {"breed": "Australian Shepherd", "score": 18},
+			  {"breed": "Australian Cattle Dog", "score": 20},
+			  {"breed": "Siberian Husky", "score": 22},
+			  {"breed": "Alaskan Malamute", "score": 25},
+			  {"breed": "Jack Russell Terrier", "score": 28},
+			  {"breed": "Dalmatian", "score": 30},
+			  {"breed": "Weimaraner", "score": 32},
+			  {"breed": "German Shorthaired Pointer", "score": 35},
+			  {"breed": "Great Pyrenees", "score": 38}
+			]
+		  },
+		  "thrives in small spaces": {
+			"most_similar_breeds": [
+			  {"breed": "French Bulldog", "score": 96},
+			  {"breed": "Bulldog", "score": 95},
+			  {"breed": "Pug", "score": 94},
+			  {"breed": "Shih Tzu", "score": 93},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 92},
+			  {"breed": "Bichon Frise", "score": 90},
+			  {"breed": "Maltese", "score": 88},
+			  {"breed": "Japanese Chin", "score": 87},
+			  {"breed": "Chihuahua", "score": 85},
+			  {"breed": "Yorkshire Terrier", "score": 83}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 15},
+			  {"breed": "Australian Shepherd", "score": 18},
+			  {"breed": "Australian Cattle Dog", "score": 20},
+			  {"breed": "Siberian Husky", "score": 22},
+			  {"breed": "Alaskan Malamute", "score": 25},
+			  {"breed": "Jack Russell Terrier", "score": 28},
+			  {"breed": "Dalmatian", "score": 30},
+			  {"breed": "Weimaraner", "score": 32},
+			  {"breed": "German Shorthaired Pointer", "score": 35},
+			  {"breed": "Great Pyrenees", "score": 38}
+			]
+		  },
+		  "requires large fenced yard": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 95},
+			  {"breed": "Australian Shepherd", "score": 94},
+			  {"breed": "Australian Cattle Dog", "score": 93},
+			  {"breed": "Siberian Husky", "score": 92},
+			  {"breed": "Alaskan Malamute", "score": 90},
+			  {"breed": "German Shepherd", "score": 88},
+			  {"breed": "Belgian Malinois", "score": 87},
+			  {"breed": "Great Pyrenees", "score": 85},
+			  {"breed": "Bernese Mountain Dog", "score": 83},
+			  {"breed": "Saint Bernard", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "French Bulldog", "score": 10},
+			  {"breed": "Bulldog", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Chihuahua", "score": 30},
+			  {"breed": "Yorkshire Terrier", "score": 32}
+			]
+		  },
+		  "escapes from any enclosure": {
+			"most_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 95},
+			  {"breed": "Alaskan Malamute", "score": 93},
+			  {"breed": "Basenji", "score": 90},
+			  {"breed": "Jack Russell Terrier", "score": 88},
+			  {"breed": "Parson Russell Terrier", "score": 87},
+			  {"breed": "Beagle", "score": 85},
+			  {"breed": "Afghan Hound", "score": 83},
+			  {"breed": "Whippet", "score": 80},
+			  {"breed": "Greyhound", "score": 78},
+			  {"breed": "Border Collie", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "French Bulldog", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Basset Hound", "score": 20},
+			  {"breed": "Bernese Mountain Dog", "score": 22},
+			  {"breed": "Saint Bernard", "score": 25},
+			  {"breed": "Newfoundland", "score": 28},
+			  {"breed": "Great Dane", "score": 30},
+			  {"breed": "Irish Wolfhound", "score": 32}
+			]
+		  },
+		  "digs holes compulsively": {
+			"most_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 90},
+			  {"breed": "Parson Russell Terrier", "score": 88},
+			  {"breed": "Rat Terrier", "score": 87},
+			  {"breed": "Cairn Terrier", "score": 85},
+			  {"breed": "West Highland White Terrier", "score": 83},
+			  {"breed": "Norfolk Terrier", "score": 80},
+			  {"breed": "Norwich Terrier", "score": 78},
+			  {"breed": "Border Terrier", "score": 75},
+			  {"breed": "Miniature Schnauzer", "score": 73},
+			  {"breed": "Dachshund", "score": 70}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "French Bulldog", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Maltese", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Greyhound", "score": 35},
+			  {"breed": "Whippet", "score": 38}
+			]
+		  },
+		  "barks at every sound": {
+			"most_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 95},
+			  {"breed": "Pomeranian", "score": 94},
+			  {"breed": "Yorkshire Terrier", "score": 93},
+			  {"breed": "Miniature Pinscher", "score": 92},
+			  {"breed": "Miniature Schnauzer", "score": 90},
+			  {"breed": "West Highland White Terrier", "score": 88},
+			  {"breed": "Cairn Terrier", "score": 87},
+			  {"breed": "Scottish Terrier", "score": 85},
+			  {"breed": "Shih Tzu", "score": 83},
+			  {"breed": "Lhasa Apso", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Basenji", "score": 10},
+			  {"breed": "Tibetan Mastiff", "score": 12},
+			  {"breed": "Great Pyrenees", "score": 15},
+			  {"breed": "Anatolian Shepherd Dog", "score": 18},
+			  {"breed": "Komondor", "score": 20},
+			  {"breed": "Kuvasz", "score": 22},
+			  {"breed": "Saint Bernard", "score": 25},
+			  {"breed": "Newfoundland", "score": 28},
+			  {"breed": "Bernese Mountain Dog", "score": 30},
+			  {"breed": "Bulldog", "score": 32}
+			]
+		  },
+		  "howls when left alone": {
+			"most_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 90},
+			  {"breed": "Alaskan Malamute", "score": 88},
+			  {"breed": "Beagle", "score": 85},
+			  {"breed": "American Foxhound", "score": 83},
+			  {"breed": "Basset Hound", "score": 80},
+			  {"breed": "Bloodhound", "score": 78},
+			  {"breed": "Dachshund", "score": 75},
+			  {"breed": "Coonhound", "score": 73},
+			  {"breed": "Samoyed", "score": 70},
+			  {"breed": "Finnish Spitz", "score": 68}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "French Bulldog", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Löwchen", "score": 30},
+			  {"breed": "Great Dane", "score": 32}
+			]
+		  },
+		  "chases cars and bikes": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 90},
+			  {"breed": "Australian Shepherd", "score": 88},
+			  {"breed": "Australian Cattle Dog", "score": 87},
+			  {"breed": "Siberian Husky", "score": 85},
+			  {"breed": "Alaskan Malamute", "score": 83},
+			  {"breed": "German Shepherd", "score": 80},
+			  {"breed": "Belgian Malinois", "score": 78},
+			  {"breed": "Jack Russell Terrier", "score": 75},
+			  {"breed": "Parson Russell Terrier", "score": 73},
+			  {"breed": "Greyhound", "score": 70}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 10},
+			  {"breed": "French Bulldog", "score": 12},
+			  {"breed": "Pug", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Basset Hound", "score": 20},
+			  {"breed": "Bernese Mountain Dog", "score": 22},
+			  {"breed": "Saint Bernard", "score": 25},
+			  {"breed": "Newfoundland", "score": 28},
+			  {"breed": "Great Dane", "score": 30},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 32}
+			]
+		  },
+		  "gentle with small children": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 97},
+			  {"breed": "Labrador Retriever", "score": 96},
+			  {"breed": "Newfoundland", "score": 95},
+			  {"breed": "Bernese Mountain Dog", "score": 94},
+			  {"breed": "Saint Bernard", "score": 93},
+			  {"breed": "Bulldog", "score": 92},
+			  {"breed": "Irish Wolfhound", "score": 90},
+			  {"breed": "Great Dane", "score": 88},
+			  {"breed": "Basset Hound", "score": 87},
+			  {"breed": "Boxer", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 28},
+			  {"breed": "Shiba Inu", "score": 30},
+			  {"breed": "Akita", "score": 32},
+			  {"breed": "Chow Chow", "score": 35},
+			  {"breed": "Chinese Shar-Pei", "score": 38},
+			  {"breed": "Basenji", "score": 40},
+			  {"breed": "Afghan Hound", "score": 42},
+			  {"breed": "Tibetan Mastiff", "score": 45},
+			  {"breed": "Great Pyrenees", "score": 48},
+			  {"breed": "Rhodesian Ridgeback", "score": 50}
+			]
+		  },
+		  "too rough for young kids": {
+			"most_similar_breeds": [
+			  {"breed": "Akita", "score": 75},
+			  {"breed": "Chow Chow", "score": 73},
+			  {"breed": "Shiba Inu", "score": 70},
+			  {"breed": "Rottweiler", "score": 68},
+			  {"breed": "Doberman Pinscher", "score": 65},
+			  {"breed": "German Shepherd", "score": 63},
+			  {"breed": "Bullmastiff", "score": 60},
+			  {"breed": "Mastiff", "score": 58},
+			  {"breed": "Cane Corso", "score": 55},
+			  {"breed": "Great Dane", "score": 53}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 10},
+			  {"breed": "Labrador Retriever", "score": 12},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Bichon Frise", "score": 18},
+			  {"breed": "Maltese", "score": 20},
+			  {"breed": "Poodle", "score": 22},
+			  {"breed": "Newfoundland", "score": 25},
+			  {"breed": "Bernese Mountain Dog", "score": 28},
+			  {"breed": "Saint Bernard", "score": 30},
+			  {"breed": "Bulldog", "score": 32}
+			]
+		  },
+		  "follows owner room to room": {
+			"most_similar_breeds": [
+			  {"breed": "Vizsla", "score": 95},
+			  {"breed": "Chinese Crested", "score": 93},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 90},
+			  {"breed": "Shih Tzu", "score": 88},
+			  {"breed": "Löwchen", "score": 87},
+			  {"breed": "Pug", "score": 85},
+			  {"breed": "Maltese", "score": 83},
+			  {"breed": "Havanese", "score": 80},
+			  {"breed": "Bichon Frise", "score": 78},
+			  {"breed": "French Bulldog", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 10},
+			  {"breed": "Alaskan Malamute", "score": 12},
+			  {"breed": "Shiba Inu", "score": 15},
+			  {"breed": "Akita", "score": 18},
+			  {"breed": "Chow Chow", "score": 20},
+			  {"breed": "Afghan Hound", "score": 22},
+			  {"breed": "Basenji", "score": 25},
+			  {"breed": "Tibetan Mastiff", "score": 28},
+			  {"breed": "Great Pyrenees", "score": 30},
+			  {"breed": "Rhodesian Ridgeback", "score": 32}
+			]
+		  },
+		  "stays calm when alone": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 95},
+			  {"breed": "Basset Hound", "score": 93},
+			  {"breed": "French Bulldog", "score": 90},
+			  {"breed": "Great Dane", "score": 88},
+			  {"breed": "Irish Wolfhound", "score": 87},
+			  {"breed": "Greyhound", "score": 85},
+			  {"breed": "Chow Chow", "score": 83},
+			  {"breed": "Shar Pei", "score": 80},
+			  {"breed": "Shiba Inu", "score": 78},
+			  {"breed": "Akita", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 10},
+			  {"breed": "Alaskan Malamute", "score": 12},
+			  {"breed": "Vizsla", "score": 15},
+			  {"breed": "Separation Anxiety", "score": 18},
+			  {"breed": "Border Collie", "score": 20},
+			  {"breed": "Australian Shepherd", "score": 22},
+			  {"breed": "German Shepherd", "score": 25},
+			  {"breed": "Belgian Malinois", "score": 28},
+			  {"breed": "Jack Russell Terrier", "score": 30},
+			  {"breed": "Labrador Retriever", "score": 32}
+			]
+		  },
+		   "needs mental stimulation": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Poodle", "score": 93},
+			  {"breed": "Australian Cattle Dog", "score": 92},
+			  {"breed": "Shetland Sheepdog", "score": 90},
+			  {"breed": "Labrador Retriever", "score": 88},
+			  {"breed": "Golden Retriever", "score": 87},
+			  {"breed": "Doberman Pinscher", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 20},
+			  {"breed": "Basset Hound", "score": 22},
+			  {"breed": "French Bulldog", "score": 25},
+			  {"breed": "Pug", "score": 28},
+			  {"breed": "Shih Tzu", "score": 30},
+			  {"breed": "Chihuahua", "score": 32},
+			  {"breed": "Maltese", "score": 35},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 38},
+			  {"breed": "Japanese Chin", "score": 40},
+			  {"breed": "Löwchen", "score": 42}
+			]
+		  },
+		  "chews everything in reach": {
+			"most_similar_breeds": [
+			  {"breed": "Labrador Retriever", "score": 80},
+			  {"breed": "Golden Retriever", "score": 78},
+			  {"breed": "Jack Russell Terrier", "score": 75},
+			  {"breed": "Parson Russell Terrier", "score": 73},
+			  {"breed": "Beagle", "score": 70},
+			  {"breed": "Border Collie", "score": 68},
+			  {"breed": "Australian Shepherd", "score": 65},
+			  {"breed": "Siberian Husky", "score": 63},
+			  {"breed": "Alaskan Malamute", "score": 60},
+			  {"breed": "German Shepherd", "score": 58}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "French Bulldog", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Basset Hound", "score": 25},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Maltese", "score": 32},
+			  {"breed": "Japanese Chin", "score": 35},
+			  {"breed": "Löwchen", "score": 38}
+			]
+		  },
+		  "learns commands quickly": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Poodle", "score": 96},
+			  {"breed": "German Shepherd", "score": 95},
+			  {"breed": "Belgian Malinois", "score": 94},
+			  {"breed": "Australian Shepherd", "score": 93},
+			  {"breed": "Labrador Retriever", "score": 92},
+			  {"breed": "Golden Retriever", "score": 90},
+			  {"breed": "Doberman Pinscher", "score": 88},
+			  {"breed": "Shetland Sheepdog", "score": 87},
+			  {"breed": "Australian Cattle Dog", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Afghan Hound", "score": 15},
+			  {"breed": "Basenji", "score": 18},
+			  {"breed": "Chow Chow", "score": 20},
+			  {"breed": "Bulldog", "score": 22},
+			  {"breed": "Basset Hound", "score": 25},
+			  {"breed": "Shih Tzu", "score": 28},
+			  {"breed": "Pug", "score": 30},
+			  {"breed": "Pekingese", "score": 32},
+			  {"breed": "Borzoi", "score": 35},
+			  {"breed": "Bloodhound", "score": 38}
+			]
+		  },
+		  "ignores recall commands": {
+			"most_similar_breeds": [
+			  {"breed": "Afghan Hound", "score": 85},
+			  {"breed": "Basenji", "score": 83},
+			  {"breed": "Shiba Inu", "score": 80},
+			  {"breed": "Akita", "score": 78},
+			  {"breed": "Chow Chow", "score": 75},
+			  {"breed": "Siberian Husky", "score": 73},
+			  {"breed": "Alaskan Malamute", "score": 70},
+			  {"breed": "Beagle", "score": 68},
+			  {"breed": "Basset Hound", "score": 65},
+			  {"breed": "Bloodhound", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 10},
+			  {"breed": "Poodle", "score": 12},
+			  {"breed": "German Shepherd", "score": 15},
+			  {"breed": "Belgian Malinois", "score": 18},
+			  {"breed": "Labrador Retriever", "score": 20},
+			  {"breed": "Golden Retriever", "score": 22},
+			  {"breed": "Australian Shepherd", "score": 25},
+			  {"breed": "Doberman Pinscher", "score": 28},
+			  {"breed": "Shetland Sheepdog", "score": 30},
+			  {"breed": "Australian Cattle Dog", "score": 32}
+			]
+		  },
+		  "drools on all furniture": {
+			"most_similar_breeds": [
+			  {"breed": "Saint Bernard", "score": 95},
+			  {"breed": "Newfoundland", "score": 94},
+			  {"breed": "Bulldog", "score": 93},
+			  {"breed": "Basset Hound", "score": 92},
+			  {"breed": "Bloodhound", "score": 90},
+			  {"breed": "Mastiff", "score": 88},
+			  {"breed": "Bullmastiff", "score": 87},
+			  {"breed": "Great Dane", "score": 85},
+			  {"breed": "Bernese Mountain Dog", "score": 83},
+			  {"breed": "Clumber Spaniel", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Poodle", "score": 10},
+			  {"breed": "Bichon Frise", "score": 12},
+			  {"breed": "Maltese", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Yorkshire Terrier", "score": 20},
+			  {"breed": "Chihuahua", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Japanese Chin", "score": 28},
+			  {"breed": "Italian Greyhound", "score": 30},
+			  {"breed": "Whippet", "score": 32}
+			]
+		  },
+		  "steals food from counters": {
+			"most_similar_breeds": [
+			  {"breed": "Labrador Retriever", "score": 80},
+			  {"breed": "Golden Retriever", "score": 78},
+			  {"breed": "Beagle", "score": 75},
+			  {"breed": "Basset Hound", "score": 73},
+			  {"breed": "Dachshund", "score": 70},
+			  {"breed": "Pug", "score": 68},
+			  {"breed": "Boxer", "score": 65},
+			  {"breed": "American Foxhound", "score": 63},
+			  {"breed": "Siberian Husky", "score": 60},
+			  {"breed": "Alaskan Malamute", "score": 58}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 15},
+			  {"breed": "Yorkshire Terrier", "score": 18},
+			  {"breed": "Maltese", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Japanese Chin", "score": 30},
+			  {"breed": "Löwchen", "score": 32},
+			  {"breed": "Pomeranian", "score": 35},
+			  {"breed": "Papillon", "score": 38}
+			]
+		  },
+		  "resource guards food bowl": {
+			"most_similar_breeds": [
+			  {"breed": "Chow Chow", "score": 75},
+			  {"breed": "Shiba Inu", "score": 73},
+			  {"breed": "Akita", "score": 70},
+			  {"breed": "Chinese Shar-Pei", "score": 68},
+			  {"breed": "Doberman Pinscher", "score": 65},
+			  {"breed": "Rottweiler", "score": 63},
+			  {"breed": "German Shepherd", "score": 60},
+			  {"breed": "American Staffordshire Terrier", "score": 58},
+			  {"breed": "Staffordshire Bull Terrier", "score": 55},
+			  {"breed": "Bullmastiff", "score": 53}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 10},
+			  {"breed": "Labrador Retriever", "score": 12},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Bichon Frise", "score": 18},
+			  {"breed": "Maltese", "score": 20},
+			  {"breed": "Poodle", "score": 22},
+			  {"breed": "Newfoundland", "score": 25},
+			  {"breed": "Bernese Mountain Dog", "score": 28},
+			  {"breed": "Saint Bernard", "score": 30},
+			  {"breed": "Irish Wolfhound", "score": 32}
+			]
+		  },
+		  "requires professional grooming": {
+			"most_similar_breeds": [
+			  {"breed": "Poodle", "score": 95},
+			  {"breed": "Bichon Frise", "score": 93},
+			  {"breed": "Afghan Hound", "score": 90},
+			  {"breed": "Shih Tzu", "score": 88},
+			  {"breed": "Lhasa Apso", "score": 87},
+			  {"breed": "Yorkshire Terrier", "score": 85},
+			  {"breed": "Maltese", "score": 83},
+			  {"breed": "Cocker Spaniel", "score": 80},
+			  {"breed": "Portuguese Water Dog", "score": 78},
+			  {"breed": "Komondor", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Beagle", "score": 10},
+			  {"breed": "Basset Hound", "score": 12},
+			  {"breed": "French Bulldog", "score": 15},
+			  {"breed": "Bulldog", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Chihuahua", "score": 22},
+			  {"breed": "Dachshund", "score": 25},
+			  {"breed": "Greyhound", "score": 28},
+			  {"breed": "Whippet", "score": 30},
+			  {"breed": "Dalmatian", "score": 32}
+			]
+		  },
+		  "needs constant attention": {
+			"most_similar_breeds": [
+			  {"breed": "Vizsla", "score": 95},
+			  {"breed": "Chinese Crested", "score": 93},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 90},
+			  {"breed": "Shih Tzu", "score": 88},
+			  {"breed": "Löwchen", "score": 87},
+			  {"breed": "Pug", "score": 85},
+			  {"breed": "Maltese", "score": 83},
+			  {"breed": "Havanese", "score": 80},
+			  {"breed": "Bichon Frise", "score": 78},
+			  {"breed": "Italian Greyhound", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Siberian Husky", "score": 12},
+			  {"breed": "Alaskan Malamute", "score": 15},
+			  {"breed": "Shiba Inu", "score": 18},
+			  {"breed": "Akita", "score": 20},
+			  {"breed": "Chow Chow", "score": 22},
+			  {"breed": "Rhodesian Ridgeback", "score": 25},
+			  {"breed": "German Shepherd", "score": 28},
+			  {"breed": "Rottweiler", "score": 30},
+			  {"breed": "Doberman Pinscher", "score": 32},
+			  {"breed": "Afghan Hound", "score": 35}
+			]
+		  },
+		  "tolerates being ignored": {
+			"most_similar_breeds": [
+			  {"breed": "Shiba Inu", "score": 95},
+			  {"breed": "Akita", "score": 93},
+			  {"breed": "Chow Chow", "score": 90},
+			  {"breed": "Basenji", "score": 88},
+			  {"breed": "Afghan Hound", "score": 87},
+			  {"breed": "Tibetan Mastiff", "score": 85},
+			  {"breed": "Great Pyrenees", "score": 83},
+			  {"breed": "Chinese Shar-Pei", "score": 80},
+			  {"breed": "Bulldog", "score": 78},
+			  {"breed": "Basset Hound", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Vizsla", "score": 10},
+			  {"breed": "Chinese Crested", "score": 12},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 15},
+			  {"breed": "Shih Tzu", "score": 18},
+			  {"breed": "Löwchen", "score": 20},
+			  {"breed": "Pug", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Havanese", "score": 28},
+			  {"breed": "Bichon Frise", "score": 30},
+			  {"breed": "Italian Greyhound", "score": 32}
+			]
+		  },
+		  "loves meeting strangers": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 97},
+			  {"breed": "Labrador Retriever", "score": 96},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 95},
+			  {"breed": "Bichon Frise", "score": 94},
+			  {"breed": "Havanese", "score": 93},
+			  {"breed": "Maltese", "score": 92},
+			  {"breed": "Pug", "score": 90},
+			  {"breed": "Shih Tzu", "score": 88},
+			  {"breed": "French Bulldog", "score": 87},
+			  {"breed": "Boxer", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Shiba Inu", "score": 15},
+			  {"breed": "Akita", "score": 18},
+			  {"breed": "Chow Chow", "score": 20},
+			  {"breed": "Chinese Shar-Pei", "score": 22},
+			  {"breed": "Tibetan Mastiff", "score": 25},
+			  {"breed": "Great Pyrenees", "score": 28},
+			  {"breed": "Rhodesian Ridgeback", "score": 30},
+			  {"breed": "Rottweiler", "score": 32},
+			  {"breed": "Doberman Pinscher", "score": 35},
+			  {"breed": "German Shepherd", "score": 38}
+			]
+		  },
+		  "fearful of new people": {
+			 "most_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 75},
+			  {"breed": "Shiba Inu", "score": 73},
+			  {"breed": "Akita", "score": 70},
+			  {"breed": "Chow Chow", "score": 68},
+			  {"breed": "Chinese Shar-Pei", "score": 65},
+			  {"breed": "Basenji", "score": 63},
+			  {"breed": "Afghan Hound", "score": 60},
+			  {"breed": "Tibetan Mastiff", "score": 58},
+			  {"breed": "Great Pyrenees", "score": 55},
+			  {"breed": "Xoloitzcuintli", "score": 53}
+			],
+			"least_similar_breeds": [
+			   {"breed": "Golden Retriever", "score": 25},
+			  {"breed": "Labrador Retriever", "score": 30},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 32},
+			  {"breed": "Bichon Frise", "score": 35},
+			  {"breed": "Havanese", "score": 38},
+			  {"breed": "Maltese", "score": 40},
+			  {"breed": "Pug", "score": 42},
+			  {"breed": "Shih Tzu", "score": 45},
+			  {"breed": "French Bulldog", "score": 48},
+			  {"breed": "Boxer", "score": 50}
+			]
+		  },
+		  "good with other pets": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 94},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 93},
+			  {"breed": "Bichon Frise", "score": 92},
+			  {"breed": "Havanese", "score": 90},
+			  {"breed": "Maltese", "score": 88},
+			  {"breed": "Pug", "score": 87},
+			  {"breed": "Shih Tzu", "score": 85},
+			  {"breed": "Bernese Mountain Dog", "score": 83},
+			  {"breed": "Newfoundland", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Akita", "score": 20},
+			  {"breed": "Shiba Inu", "score": 22},
+			  {"breed": "Chow Chow", "score": 25},
+			  {"breed": "Jack Russell Terrier", "score": 28},
+			  {"breed": "Parson Russell Terrier", "score": 30},
+			  {"breed": "American Staffordshire Terrier", "score": 32},
+			  {"breed": "Staffordshire Bull Terrier", "score": 35},
+			  {"breed": "Bull Terrier", "score": 38},
+			  {"breed": "Pit Bull", "score": 40},
+			  {"breed": "Basenji", "score": 42}
+			]
+		  },
+		  "chases small animals": {
+			"most_similar_breeds": [
+			  {"breed": "Greyhound", "score": 97},
+			  {"breed": "Whippet", "score": 96},
+			  {"breed": "Afghan Hound", "score": 95},
+			  {"breed": "Saluki", "score": 94},
+			  {"breed": "Borzoi", "score": 93},
+			  {"breed": "Irish Wolfhound", "score": 92},
+			  {"breed": "Scottish Deerhound", "score": 90},
+			  {"breed": "Ibizan Hound", "score": 88},
+			  {"breed": "Pharaoh Hound", "score": 87},
+			  {"breed": "Jack Russell Terrier", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 15},
+			  {"breed": "French Bulldog", "score": 18},
+			  {"breed": "Pug", "score": 20},
+			  {"breed": "Shih Tzu", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Maltese", "score": 30},
+			  {"breed": "Japanese Chin", "score": 32},
+			  {"breed": "Löwchen", "score": 35},
+			  {"breed": "Basset Hound", "score": 38}
+			]
+		  },
+		  "lives peacefully with cats": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 90},
+			  {"breed": "Labrador Retriever", "score": 88},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 87},
+			  {"breed": "Bichon Frise", "score": 85},
+			  {"breed": "Maltese", "score": 83},
+			  {"breed": "Pug", "score": 80},
+			  {"breed": "Havanese", "score": 78},
+			  {"breed": "Shih Tzu", "score": 75},
+			  {"breed": "Bernese Mountain Dog", "score": 73},
+			  {"breed": "Newfoundland", "score": 70}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Jack Russell Terrier", "score": 10},
+			  {"breed": "Parson Russell Terrier", "score": 12},
+			  {"breed": "Rat Terrier", "score": 15},
+			  {"breed": "Greyhound", "score": 18},
+			  {"breed": "Whippet", "score": 20},
+			  {"breed": "Afghan Hound", "score": 22},
+			  {"breed": "Saluki", "score": 25},
+			  {"breed": "Borzoi", "score": 28},
+			  {"breed": "Akita", "score": 30},
+			  {"breed": "Shiba Inu", "score": 32}
+			]
+		  },
+		  "wants to be only pet": {
+			"most_similar_breeds": [
+			  {"breed": "Akita", "score": 85},
+			  {"breed": "Shiba Inu", "score": 83},
+			  {"breed": "Chow Chow", "score": 80},
+			  {"breed": "Chinese Shar-Pei", "score": 78},
+			  {"breed": "American Staffordshire Terrier", "score": 75},
+			  {"breed": "Staffordshire Bull Terrier", "score": 73},
+			  {"breed": "Bull Terrier", "score": 70},
+			  {"breed": "Pit Bull", "score": 68},
+			  {"breed": "Jack Russell Terrier", "score": 65},
+			  {"breed": "Parson Russell Terrier", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 15},
+			  {"breed": "Labrador Retriever", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Havanese", "score": 28},
+			  {"breed": "Pug", "score": 30},
+			  {"breed": "Shih Tzu", "score": 32},
+			  {"breed": "Bernese Mountain Dog", "score": 35},
+			  {"breed": "Newfoundland", "score": 38}
+			]
+		  },
+		  "adapts to schedule changes": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 90},
+			  {"breed": "Labrador Retriever", "score": 88},
+			  {"breed": "Poodle", "score": 87},
+			  {"breed": "Bichon Frise", "score": 85},
+			  {"breed": "Maltese", "score": 83},
+			  {"breed": "Havanese", "score": 80},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 78},
+			  {"breed": "French Bulldog", "score": 75},
+			  {"breed": "Pug", "score": 73},
+			  {"breed": "Shih Tzu", "score": 70}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 20},
+			  {"breed": "Australian Shepherd", "score": 22},
+			  {"breed": "Siberian Husky", "score": 25},
+			  {"breed": "Alaskan Malamute", "score": 28},
+			  {"breed": "Akita", "score": 30},
+			  {"breed": "Shiba Inu", "score": 32},
+			  {"breed": "Chow Chow", "score": 35},
+			  {"breed": "Basenji", "score": 38},
+			  {"breed": "Afghan Hound", "score": 40},
+			  {"breed": "Great Pyrenees", "score": 42}
+			]
+		  },
+		  "needs strict routine": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 85},
+			  {"breed": "Australian Shepherd", "score": 83},
+			  {"breed": "Siberian Husky", "score": 80},
+			  {"breed": "Alaskan Malamute", "score": 78},
+			  {"breed": "Akita", "score": 75},
+			  {"breed": "Shiba Inu", "score": 73},
+			  {"breed": "Chow Chow", "score": 70},
+			  {"breed": "Basenji", "score": 68},
+			  {"breed": "Afghan Hound", "score": 65},
+			  {"breed": "Great Pyrenees", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 20},
+			  {"breed": "Labrador Retriever", "score": 22},
+			  {"breed": "Poodle", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Maltese", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 35},
+			  {"breed": "French Bulldog", "score": 38},
+			  {"breed": "Pug", "score": 40},
+			  {"breed": "Shih Tzu", "score": 42}
+			]
+		  },
+		  "sleeps all day happily": {
+			"most_similar_breeds": [
+			  {"breed": "Bulldog", "score": 95},
+			  {"breed": "Basset Hound", "score": 93},
+			  {"breed": "French Bulldog", "score": 90},
+			  {"breed": "Greyhound", "score": 88},
+			  {"breed": "Great Dane", "score": 87},
+			  {"breed": "Irish Wolfhound", "score": 85},
+			  {"breed": "Shih Tzu", "score": 83},
+			  {"breed": "Pug", "score": 80},
+			  {"breed": "Chow Chow", "score": 78},
+			  {"breed": "Saint Bernard", "score": 75}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Border Collie", "score": 18},
+			  {"breed": "Australian Shepherd", "score": 20},
+			  {"breed": "Australian Cattle Dog", "score": 22},
+			  {"breed": "Siberian Husky", "score": 25},
+			  {"breed": "Alaskan Malamute", "score": 28},
+			  {"breed": "Jack Russell Terrier", "score": 30},
+			  {"breed": "Dalmatian", "score": 32},
+			  {"breed": "Weimaraner", "score": 35},
+			  {"breed": "German Shorthaired Pointer", "score": 38},
+			  {"breed": "Vizsla", "score": 40}
+			]
+		  },
+		  "restless without exercise": {
+			"most_similar_breeds": [
+			  {"breed": "Border Collie", "score": 97},
+			  {"breed": "Australian Shepherd", "score": 96},
+			  {"breed": "Australian Cattle Dog", "score": 95},
+			  {"breed": "Siberian Husky", "score": 94},
+			  {"breed": "Alaskan Malamute", "score": 93},
+			  {"breed": "Dalmatian", "score": 92},
+			  {"breed": "Jack Russell Terrier", "score": 90},
+			  {"breed": "Parson Russell Terrier", "score": 88},
+			  {"breed": "Weimaraner", "score": 87},
+			  {"breed": "German Shorthaired Pointer", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bulldog", "score": 12},
+			  {"breed": "Basset Hound", "score": 15},
+			  {"breed": "Saint Bernard", "score": 18},
+			  {"breed": "Newfoundland", "score": 20},
+			  {"breed": "Bernese Mountain Dog", "score": 22},
+			  {"breed": "Great Pyrenees", "score": 25},
+			  {"breed": "Tibetan Mastiff", "score": 28},
+			  {"breed": "Great Dane", "score": 30},
+			  {"breed": "Irish Wolfhound", "score": 32},
+			  {"breed": "Clumber Spaniel", "score": 35}
+			]
+		  },
+		  "great family companion": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 97},
+			  {"breed": "Labrador Retriever", "score": 96},
+			  {"breed": "Bernese Mountain Dog", "score": 95},
+			  {"breed": "Newfoundland", "score": 94},
+			  {"breed": "Saint Bernard", "score": 93},
+			  {"breed": "Bichon Frise", "score": 92},
+			  {"breed": "Havanese", "score": 90},
+			  {"breed": "Maltese", "score": 88},
+			  {"breed": "Pug", "score": 87},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 85}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chow Chow", "score": 30},
+			  {"breed": "Shiba Inu", "score": 32},
+			  {"breed": "Akita", "score": 35},
+			  {"breed": "Chinese Shar-Pei", "score": 38},
+			  {"breed": "Basenji", "score": 40},
+			  {"breed": "Afghan Hound", "score": 42},
+			  {"breed": "Tibetan Mastiff", "score": 45},
+			  {"breed": "Great Pyrenees", "score": 48},
+			  {"breed": "Rhodesian Ridgeback", "score": 50},
+			  {"breed": "Jack Russell Terrier", "score": 52}
+			]
+		  },
+		  "better as only pet": {
+			"most_similar_breeds": [
+			  {"breed": "Akita", "score": 80},
+			  {"breed": "Shiba Inu", "score": 78},
+			  {"breed": "Chow Chow", "score": 75},
+			  {"breed": "Chinese Shar-Pei", "score": 73},
+			  {"breed": "American Staffordshire Terrier", "score": 70},
+			  {"breed": "Staffordshire Bull Terrier", "score": 68},
+			  {"breed": "Bull Terrier", "score": 65},
+			  {"breed": "Pit Bull", "score": 63},
+			  {"breed": "Jack Russell Terrier", "score": 60},
+			  {"breed": "Parson Russell Terrier", "score": 58}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 20},
+			  {"breed": "Labrador Retriever", "score": 22},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 25},
+			  {"breed": "Bichon Frise", "score": 28},
+			  {"breed": "Maltese", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Pug", "score": 35},
+			  {"breed": "Shih Tzu", "score": 38},
+			  {"breed": "Bernese Mountain Dog", "score": 40},
+			  {"breed": "Newfoundland", "score": 42}
+			]
+		  },
+		  "bonds to single person": {
+			"most_similar_breeds": [
+			  {"breed": "Akita", "score": 85},
+			  {"breed": "Shiba Inu", "score": 83},
+			  {"breed": "Chow Chow", "score": 80},
+			  {"breed": "Basenji", "score": 78},
+			  {"breed": "Afghan Hound", "score": 75},
+			  {"breed": "Chinese Shar-Pei", "score": 73},
+			  {"breed": "Tibetan Mastiff", "score": 70},
+			  {"breed": "Great Pyrenees", "score": 68},
+			  {"breed": "Rhodesian Ridgeback", "score": 65},
+			  {"breed": "German Shepherd", "score": 63}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 25},
+			  {"breed": "Labrador Retriever", "score": 28},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "Havanese", "score": 35},
+			  {"breed": "Maltese", "score": 38},
+			  {"breed": "Pug", "score": 40},
+			  {"breed": "Shih Tzu", "score": 42},
+			  {"breed": "French Bulldog", "score": 45},
+			  {"breed": "Boxer", "score": 48}
+			]
+		  },
+		  "loves everyone equally": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 94},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 93},
+			  {"breed": "Bichon Frise", "score": 92},
+			  {"breed": "Havanese", "score": 90},
+			  {"breed": "Maltese", "score": 88},
+			  {"breed": "Pug", "score": 87},
+			  {"breed": "Shih Tzu", "score": 85},
+			  {"breed": "French Bulldog", "score": 83},
+			  {"breed": "Bernese Mountain Dog", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Akita", "score": 20},
+			  {"breed": "Shiba Inu", "score": 22},
+			  {"breed": "Chow Chow", "score": 25},
+			  {"breed": "Basenji", "score": 28},
+			  {"breed": "Afghan Hound", "score": 30},
+			  {"breed": "Chinese Shar-Pei", "score": 32},
+			  {"breed": "Tibetan Mastiff", "score": 35},
+			  {"breed": "Great Pyrenees", "score": 38},
+			  {"breed": "Rhodesian Ridgeback", "score": 40},
+			  {"breed": "German Shepherd", "score": 42}
+			]
+		  },
+		  "sociable with all people": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 96},
+			  {"breed": "Labrador Retriever", "score": 95},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 94},
+			  {"breed": "Bichon Frise", "score":93},
+			  {"breed": "Havanese", "score": 92},
+			  {"breed": "Maltese", "score": 90},
+			  {"breed": "Pug", "score": 88},
+			  {"breed": "Shih Tzu", "score": 87},
+			  {"breed": "French Bulldog", "score": 85},
+			  {"breed": "Beagle", "score": 83}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chow Chow", "score": 10},
+			  {"breed": "Shiba Inu", "score": 12},
+			  {"breed": "Akita", "score": 15},
+			  {"breed": "Chinese Shar-Pei", "score": 18},
+			  {"breed": "Tibetan Mastiff", "score": 20},
+			  {"breed": "Great Pyrenees", "score": 22},
+			  {"breed": "Rhodesian Ridgeback", "score": 25},
+			  {"breed": "Rottweiler", "score": 28},
+			  {"breed": "Doberman Pinscher", "score": 30},
+			  {"breed": "German Shepherd", "score": 32}
+			]
+		  },
+		  "protective of family": {
+			"most_similar_breeds": [
+			  {"breed": "Tibetan Mastiff", "score": 98},
+			  {"breed": "Akita", "score": 97},
+			  {"breed": "Rottweiler", "score": 96},
+			  {"breed": "Doberman Pinscher", "score": 95},
+			  {"breed": "German Shepherd", "score": 94},
+			  {"breed": "Belgian Malinois", "score": 93},
+			  {"breed": "Belgian Tervuren", "score": 92},
+			  {"breed": "Belgian Sheepdog", "score": 90},
+			  {"breed": "Great Pyrenees", "score": 88},
+			  {"breed": "Briard", "score": 87}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 20},
+			  {"breed": "Labrador Retriever", "score": 25},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 30},
+			  {"breed": "Bichon Frise", "score": 32},
+			  {"breed": "Maltese", "score": 35},
+			  {"breed": "Poodle", "score": 38},
+			  {"breed": "Toy Poodle", "score": 40},
+			  {"breed": "Havanese", "score": 42},
+			  {"breed": "Shih Tzu", "score": 45},
+			  {"breed": "Pug", "score": 48}
+			]
+		  },
+		  "tolerant of handling": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 95},
+			  {"breed": "Labrador Retriever", "score": 94},
+			  {"breed": "Bernese Mountain Dog", "score": 93},
+			  {"breed": "Newfoundland", "score": 92},
+			  {"breed": "Saint Bernard", "score": 90},
+			  {"breed": "Bulldog", "score": 88},
+			  {"breed": "Basset Hound", "score": 87},
+			  {"breed": "Great Dane", "score": 85},
+			  {"breed": "Irish Wolfhound", "score": 83},
+			  {"breed": "Boxer", "score": 80}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 30},
+			  {"breed": "Shiba Inu", "score": 32},
+			  {"breed": "Akita", "score": 35},
+			  {"breed": "Chow Chow", "score": 38},
+			  {"breed": "Chinese Shar-Pei", "score": 40},
+			  {"breed": "Basenji", "score": 42},
+			  {"breed": "Afghan Hound", "score": 45},
+			  {"breed": "Tibetan Mastiff", "score": 48},
+			  {"breed": "Great Pyrenees", "score": 50},
+			  {"breed": "Rhodesian Ridgeback", "score": 52}
+			]
+		  },
+		  "reactive to sudden movements": {
+			"most_similar_breeds": [
+			  {"breed": "Chihuahua", "score": 75},
+			  {"breed": "Italian Greyhound", "score": 73},
+			  {"breed": "Miniature Pinscher", "score": 70},
+			  {"breed": "Yorkshire Terrier", "score": 68},
+			  {"breed": "Toy Poodle", "score": 65},
+			  {"breed": "Papillon", "score": 63},
+			  {"breed": "Japanese Chin", "score": 60},
+			  {"breed": "Chinese Crested", "score": 58},
+			  {"breed": "Whippet", "score": 55},
+			  {"breed": "Greyhound", "score": 53}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Bernese Mountain Dog", "score": 15},
+			  {"breed": "Saint Bernard", "score": 18},
+			  {"breed": "Newfoundland", "score": 20},
+			  {"breed": "Great Pyrenees", "score": 22},
+			  {"breed": "Tibetan Mastiff", "score": 25},
+			  {"breed": "Bulldog", "score": 28},
+			  {"breed": "Basset Hound", "score": 30},
+			  {"breed": "Leonberger", "score": 32},
+			  {"breed": "Mastiff", "score": 35},
+			  {"breed": "Bullmastiff", "score": 38}
+			]
+		  },
+		  "suspicious of strangers": {
+			"most_similar_breeds": [
+			  {"breed": "Shiba Inu", "score": 92},
+			  {"breed": "Akita", "score": 90},
+			  {"breed": "Chow Chow", "score": 88},
+			  {"breed": "Chinese Shar-Pei", "score": 87},
+			  {"breed": "Tibetan Mastiff", "score": 85},
+			  {"breed": "Great Pyrenees", "score": 83},
+			  {"breed": "Rhodesian Ridgeback", "score": 80},
+			  {"breed": "Rottweiler", "score": 78},
+			  {"breed": "Doberman Pinscher", "score": 75},
+			  {"breed": "German Shepherd", "score": 73}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 12},
+			  {"breed": "Labrador Retriever", "score": 18},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 20},
+			  {"breed": "Bichon Frise", "score": 22},
+			  {"breed": "Maltese", "score": 25},
+			  {"breed": "Poodle", "score": 28},
+			  {"breed": "Toy Poodle", "score": 30},
+			  {"breed": "Havanese", "score": 32},
+			  {"breed": "Shih Tzu", "score": 35},
+			  {"breed": "Pug", "score": 38}
+			]
+		  },
+		  "gregarious and outgoing": {
+			"most_similar_breeds": [
+			  {"breed": "Golden Retriever", "score": 94},
+			  {"breed": "Labrador Retriever", "score": 93},
+			  {"breed": "Cavalier King Charles Spaniel", "score": 92},
+			  {"breed": "Bichon Frise", "score": 90},
+			  {"breed": "Havanese", "score": 88},
+			  {"breed": "Maltese", "score": 87},
+			  {"breed": "Pug", "score": 85},
+			  {"breed": "Shih Tzu", "score": 83},
+			  {"breed": "French Bulldog", "score": 80},
+			  {"breed": "Boxer", "score": 78}
+			],
+			"least_similar_breeds": [
+			  {"breed": "Chow Chow", "score": 12},
+			  {"breed": "Shiba Inu", "score": 15},
+			  {"breed": "Akita", "score": 18},
+			  {"breed": "Chinese Shar-Pei", "score": 20},
+			  {"breed": "Tibetan Mastiff", "score": 22},
+			  {"breed": "Great Pyrenees", "score": 25},
+			  {"breed": "Rhodesian Ridgeback", "score": 28},
+			  {"breed": "Rottweiler", "score": 30},
+			  {"breed": "Doberman Pinscher", "score": 32},
+			  {"breed": "German Shepherd", "score": 35}
+			]
+		  },
+		  "adaptable to new situations": {
+      "most_similar_breeds": [
+        {"breed": "Poodle", "score": 96},
+        {"breed": "Toy Poodle", "score": 95},
+        {"breed": "Border Collie", "score": 94},
+        {"breed": "German Shepherd", "score": 93},
+        {"breed": "Belgian Malinois", "score": 92},
+        {"breed": "Belgian Tervuren", "score": 90},
+        {"breed": "Belgian Sheepdog", "score": 88},
+        {"breed": "Australian Shepherd", "score": 87},
+        {"breed": "Labrador Retriever", "score": 85},
+        {"breed": "Golden Retriever", "score": 83}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Akita", "score": 25},
+        {"breed": "Shiba Inu", "score": 28},
+        {"breed": "Afghan Hound", "score": 30},
+        {"breed": "Basenji", "score": 32},
+        {"breed": "Chinese Shar-Pei", "score": 35},
+        {"breed": "Finnish Spitz", "score": 38},
+        {"breed": "Tibetan Spaniel", "score": 40},
+        {"breed": "Tibetan Terrier", "score": 42},
+        {"breed": "Xoloitzcuintli", "score": 45}
+      ]
+    },
+    "affectionate with family": {
+      "most_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 98},
+        {"breed": "Labrador Retriever", "score": 97},
+        {"breed": "Flat-Coated Retriever", "score": 96},
+        {"breed": "Bernese Mountain Dog", "score": 95},
+        {"breed": "Samoyed", "score": 94},
+        {"breed": "Cavalier King Charles Spaniel", "score": 93},
+        {"breed": "Shih Tzu", "score": 92},
+        {"breed": "Havanese", "score": 90},
+        {"breed": "Maltese", "score": 88},
+        {"breed": "Pug", "score": 87}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Shiba Inu", "score": 25},
+        {"breed": "Akita", "score": 28},
+        {"breed": "Afghan Hound", "score": 30},
+        {"breed": "Basenji", "score": 32},
+        {"breed": "Chinese Shar-Pei", "score": 35},
+        {"breed": "Finnish Spitz", "score": 38},
+        {"breed": "Tibetan Spaniel", "score": 40},
+        {"breed": "Tibetan Terrier", "score": 42},
+        {"breed": "Xoloitzcuintli", "score": 45}
+      ]
+    },
+    "aloof with strangers": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 97},
+        {"breed": "Akita", "score": 96},
+        {"breed": "Chow Chow", "score": 95},
+        {"breed": "Chinese Shar-Pei", "score": 94},
+        {"breed": "Afghan Hound", "score": 93},
+        {"breed": "Basenji", "score": 92},
+        {"breed": "Tibetan Mastiff", "score": 90},
+        {"breed": "Rhodesian Ridgeback", "score": 88},
+        {"breed": "Rottweiler", "score": 87},
+        {"breed": "Doberman Pinscher", "score": 85}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 10},
+        {"breed": "Labrador Retriever", "score": 15},
+        {"breed": "Cavalier King Charles Spaniel", "score": 18},
+        {"breed": "Bichon Frise", "score": 20},
+        {"breed": "Maltese", "score": 22},
+        {"breed": "Poodle", "score": 25},
+        {"breed": "Toy Poodle", "score": 28},
+        {"breed": "Havanese", "score": 30},
+        {"breed": "Shih Tzu", "score": 32},
+        {"breed": "Pug", "score": 35}
+      ]
+    },
+    "biddable and eager to please": {
+      "most_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 94},
+        {"breed": "Labrador Retriever", "score": 93},
+        {"breed": "Flat-Coated Retriever", "score": 92},
+        {"breed": "Poodle", "score":91},
+        {"breed": "Border Collie", "score": 90},
+        {"breed": "German Shorthaired Pointer", "score": 89},
+        {"breed": "Brittany Spaniel", "score": 88},
+        {"breed": "English Springer Spaniel", "score":88},
+        {"breed": "Vizsla", "score": 87},
+        {"breed": "Australian Shepherd", "score": 86}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 10},
+        {"breed": "Akita", "score": 12},
+        {"breed": "Afghan Hound", "score": 15},
+        {"breed": "Basenji", "score": 18},
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Siberian Husky", "score": 21},
+        {"breed": "Alaskan Malamute", "score": 22},
+        {"breed": "Scottish Terrier", "score": 24},
+        {"breed": "Chinese Shar-Pei", "score": 25},
+        {"breed": "Tibetan Mastiff", "score": 27}
+      ]
+    },
+   "bold and fearless": {
+      "most_similar_breeds": [
+        {"breed": "Bull Terrier", "score": 97},
+        {"breed": "American Staffordshire Terrier", "score": 96},
+        {"breed": "Staffordshire Bull Terrier", "score": 95},
+        {"breed": "Doberman Pinscher", "score": 94},
+        {"breed": "Rottweiler", "score": 93},
+        {"breed": "German Shepherd", "score": 92},
+        {"breed": "Airedale Terrier", "score": 90},
+        {"breed": "Akita", "score": 88},
+        {"breed": "Great Pyrenees", "score": 87},
+        {"breed": "Giant Schnauzer", "score": 85}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Cavalier King Charles Spaniel", "score": 10},
+        {"breed": "Shih Tzu", "score": 12},
+        {"breed": "Vizsla", "score": 15},
+        {"breed": "Chinese Crested", "score": 18},
+        {"breed": "Löwchen", "score": 20},
+        {"breed": "English Toy Spaniel", "score": 22},
+        {"breed": "Havanese", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Pug", "score": 30},
+        {"breed": "Coton de Tulear", "score": 32}
+      ]
+    },
+    "bossy and demanding": {
+      "most_similar_breeds": [
+        {"breed": "Chihuahua", "score": 70},
+        {"breed": "Yorkshire Terrier", "score": 65},
+        {"breed": "Miniature Pinscher", "score": 60},
+        {"breed": "Pomeranian", "score": 55},
+        {"breed": "Affenpinscher", "score": 50},
+        {"breed": "Brussels Griffon", "score": 48},
+        {"breed": "Toy Fox Terrier", "score": 45},
+        {"breed": "Silky Terrier", "score": 43},
+        {"breed": "Shih Tzu", "score": 40},
+        {"breed": "Lhasa Apso", "score": 38}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Bernese Mountain Dog", "score": 10},
+        {"breed": "Saint Bernard", "score": 12},
+        {"breed": "Newfoundland", "score": 15},
+        {"breed": "Basset Hound", "score": 18},
+        {"breed": "Great Dane", "score": 20},
+        {"breed": "Irish Wolfhound", "score": 22},
+        {"breed": "Golden Retriever", "score": 25},
+        {"breed": "Labrador Retriever", "score": 30},
+        {"breed": "Cavalier King Charles Spaniel", "score": 32},
+        {"breed": "English Setter", "score": 35}
+      ]
+    },
+    "clever problem solver": {
+      "most_similar_breeds": [
+        {"breed": "Border Collie", "score": 95},
+        {"breed": "Poodle", "score": 94},
+        {"breed": "Toy Poodle", "score": 93},
+        {"breed": "German Shepherd", "score": 92},
+        {"breed": "Belgian Malinois", "score": 90},
+        {"breed": "Belgian Tervuren", "score": 88},
+        {"breed": "Belgian Sheepdog", "score": 87},
+        {"breed": "Australian Shepherd", "score": 85},
+        {"breed": "Shetland Sheepdog", "score": 83},
+        {"breed": "Australian Cattle Dog", "score": 80}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Bulldog", "score": 15},
+        {"breed": "English Bulldog", "score": 18},
+        {"breed": "French Bulldog", "score": 20},
+        {"breed": "Basset Hound", "score": 22},
+        {"breed": "Bloodhound", "score": 25},
+        {"breed": "Shih Tzu", "score": 30},
+        {"breed": "Pug", "score": 32},
+        {"breed": "Chow Chow", "score": 35},
+        {"breed": "Afghan Hound", "score": 38},
+        {"breed": "Basenji", "score": 40}
+      ]
+    },
+    "clingy and dependent": {
+      "most_similar_breeds": [
+        {"breed": "Vizsla", "score": 95},
+        {"breed": "Chinese Crested", "score": 94},
+        {"breed": "Cavalier King Charles Spaniel", "score": 93},
+        {"breed": "Shih Tzu", "score": 92},
+        {"breed": "Löwchen", "score": 90},
+        {"breed": "English Toy Spaniel", "score": 88},
+        {"breed": "Havanese", "score": 87},
+        {"breed": "Maltese", "score": 85},
+        {"breed": "Pug", "score": 83},
+        {"breed": "Coton de Tulear", "score": 80}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Siberian Husky", "score": 10},
+        {"breed": "Alaskan Malamute", "score": 12},
+        {"breed": "Shiba Inu", "score": 15},
+        {"breed": "Akita", "score": 18},
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Rhodesian Ridgeback", "score": 22},
+        {"breed": "German Shepherd", "score": 25},
+        {"breed": "Rottweiler", "score": 28},
+        {"breed": "Doberman Pinscher", "score": 30},
+        {"breed": "Afghan Hound", "score": 32}
+      ]
+    },
+    "confident and self-assured": {
+      "most_similar_breeds": [
+        {"breed": "German Shepherd", "score": 93},
+        {"breed": "Doberman Pinscher", "score": 92},
+        {"breed": "Rottweiler", "score": 90},
+        {"breed": "Belgian Malinois", "score": 88},
+        {"breed": "Belgian Tervuren", "score": 87},
+        {"breed": "Belgian Sheepdog", "score": 85},
+        {"breed": "Airedale Terrier", "score": 83},
+        {"breed": "Akita", "score": 80},
+        {"breed": "Great Pyrenees", "score": 78},
+        {"breed": "Giant Schnauzer", "score": 75}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Cavalier King Charles Spaniel", "score": 10},
+        {"breed": "Shih Tzu", "score": 12},
+        {"breed": "Vizsla", "score": 15},
+        {"breed": "Chinese Crested", "score": 18},
+        {"breed": "Löwchen", "score": 20},
+        {"breed": "English Toy Spaniel", "score": 22},
+        {"breed": "Havanese", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Pug", "score": 30},
+        {"breed": "Coton de Tulear", "score": 32}
+      ]
+    },
+    "defiant of commands": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 85},
+        {"breed": "Akita", "score": 83},
+        {"breed": "Afghan Hound", "score": 80},
+        {"breed": "Basenji", "score": 78},
+        {"breed": "Chow Chow", "score": 75},
+        {"breed": "Scottish Terrier", "score": 73},
+        {"breed": "Siberian Husky", "score": 70},
+        {"breed": "Alaskan Malamute", "score": 68},
+        {"breed": "Rhodesian Ridgeback", "score": 65},
+        {"breed": "Kerry Blue Terrier", "score": 63}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 15},
+        {"breed": "Labrador Retriever", "score": 20},
+        {"breed": "Cavalier King Charles Spaniel", "score": 22},
+        {"breed": "Bichon Frise", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Poodle", "score": 30},
+        {"breed": "Toy Poodle", "score": 32},
+        {"breed": "Border Collie", "score": 34},
+        {"breed": "German Shepherd", "score": 35},
+        {"breed": "Shetland Sheepdog", "score": 37}
+
+      ]
+    },
+    "docile and submissive": {
+      "most_similar_breeds": [
+        {"breed": "Newfoundland", "score": 90},
+        {"breed": "Saint Bernard", "score": 88},
+        {"breed": "Basset Hound", "score": 85},
+        {"breed": "Bulldog", "score": 83},
+        {"breed": "Great Dane", "score": 80},
+        {"breed": "Irish Wolfhound", "score": 78},
+        {"breed": "Bernese Mountain Dog", "score": 75},
+        {"breed": "Greater Swiss Mountain Dog", "score": 73},
+        {"breed": "Cavalier King Charles Spaniel", "score": 70},
+        {"breed": "Shih Tzu", "score": 68}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 10},
+        {"breed": "Akita", "score": 12},
+        {"breed": "Afghan Hound", "score": 15},
+        {"breed": "Basenji", "score": 18},
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Rhodesian Ridgeback", "score": 22},
+        {"breed": "German Shepherd", "score": 25},
+        {"breed": "Rottweiler", "score": 28},
+        {"breed": "Doberman Pinscher", "score": 30},
+        {"breed": "Siberian Husky", "score": 32}
+      ]
+    },
+    "easily distracted": {
+      "most_similar_breeds": [
+        {"breed": "Beagle", "score": 75},
+        {"breed": "Basset Hound", "score": 70},
+        {"breed": "Bloodhound", "score": 65},
+        {"breed": "Otterhound", "score": 60},
+        {"breed": "Black and Tan Coonhound", "score": 55},
+        {"breed": "American Foxhound", "score": 50},
+        {"breed": "English Springer Spaniel", "score": 48},
+        {"breed": "Cocker Spaniel", "score": 45},
+        {"breed": "Brittany Spaniel", "score": 43},
+        {"breed": "Field Spaniel", "score": 40}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Border Collie", "score": 10},
+        {"breed": "German Shepherd", "score": 12},
+        {"breed": "Belgian Malinois", "score": 15},
+        {"breed": "Belgian Tervuren", "score": 18},
+        {"breed": "Belgian Sheepdog", "score": 20},
+        {"breed": "Doberman Pinscher", "score": 22},
+        {"breed": "Rottweiler", "score": 25},
+        {"breed": "Australian Shepherd", "score": 30},
+        {"breed": "Shetland Sheepdog", "score": 32},
+        {"breed": "Poodle", "score": 35}
+      ]
+    },
+    "focused on tasks": {
+      "most_similar_breeds": [
+        {"breed": "Border Collie", "score": 95},
+        {"breed": "German Shepherd", "score": 94},
+        {"breed": "Belgian Malinois", "score": 93},
+        {"breed": "Belgian Tervuren", "score": 92},
+        {"breed": "Belgian Sheepdog", "score": 90},
+        {"breed": "Australian Shepherd", "score": 88},
+        {"breed": "Australian Cattle Dog", "score": 87},
+        {"breed": "German Shorthaired Pointer", "score": 85},
+        {"breed": "Wirehaired Pointing Griffon", "score": 83},
+        {"breed": "Doberman Pinscher", "score": 80}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Cavalier King Charles Spaniel", "score": 10},
+        {"breed": "Shih Tzu", "score": 12},
+        {"breed": "Vizsla", "score": 15},
+        {"breed": "Chinese Crested", "score": 18},
+        {"breed": "Löwchen", "score": 20},
+        {"breed": "English Toy Spaniel", "score": 22},
+        {"breed": "Havanese", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Pug", "score": 30},
+        {"breed": "Coton de Tulear", "score": 32}
+      ]
+    },
+    "headstrong and independent": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 90},
+        {"breed": "Akita", "score": 88},
+        {"breed": "Afghan Hound", "score": 87},
+        {"breed": "Basenji", "score": 85},
+        {"breed": "Chow Chow", "score": 83},
+        {"breed": "Scottish Terrier", "score": 80},
+        {"breed": "Siberian Husky", "score": 78},
+        {"breed": "Alaskan Malamute", "score": 75},
+        {"breed": "Rhodesian Ridgeback", "score": 73},
+        {"breed": "Kerry Blue Terrier", "score": 70}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 15},
+        {"breed": "Labrador Retriever", "score": 20},
+        {"breed": "Cavalier King Charles Spaniel", "score": 22},
+        {"breed": "Bichon Frise", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Poodle", "score": 30},
+        {"breed": "Toy Poodle", "score": 32},
+        {"breed": "Havanese", "score": 35},
+        {"breed": "Shih Tzu", "score": 38},
+        {"breed": "Pug", "score": 40}
+      ]
+    },
+    "highly trainable": {
+      "most_similar_breeds": [
+        {"breed": "Border Collie", "score": 97},
+        {"breed": "German Shepherd", "score": 96},
+        {"breed": "Belgian Malinois", "score": 95},
+        {"breed": "Belgian Tervuren", "score": 94},
+        {"breed": "Belgian Sheepdog", "score": 93},
+        {"breed": "Poodle", "score": 92},
+        {"breed": "Toy Poodle", "score": 90},
+        {"breed": "Doberman Pinscher", "score": 88},
+        {"breed": "Australian Shepherd", "score": 87},
+        {"breed": "Labrador Retriever", "score": 85}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Afghan Hound", "score": 15},
+        {"breed": "Basenji", "score": 18},
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Bloodhound", "score": 22},
+        {"breed": "Basset Hound", "score": 25},
+        {"breed": "Siberian Husky", "score": 30},
+        {"breed": "Alaskan Malamute", "score": 32},
+        {"breed": "Bulldog", "score": 35},
+        {"breed": "English Bulldog", "score": 38},
+        {"breed": "French Bulldog", "score": 40}
+      ]
+    },
+    "independent and self-reliant": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 98},
+        {"breed": "Akita", "score": 94},
+        {"breed": "Afghan Hound", "score": 93},
+        {"breed": "Basenji", "score": 92},
+        {"breed": "Tibetan Mastiff", "score": 90},
+        {"breed": "Chow Chow", "score": 88},
+        {"breed": "Alaskan Malamute", "score": 85},
+        {"breed": "Siberian Husky", "score": 84},
+        {"breed": "Great Pyrenees", "score": 83},
+        {"breed": "Scottish Terrier", "score": 82}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Cavalier King Charles Spaniel", "score": 10},
+        {"breed": "Shih Tzu", "score": 12},
+        {"breed": "Vizsla", "score": 15},
+        {"breed": "Chinese Crested", "score": 18},
+        {"breed": "Löwchen", "score": 20},
+        {"breed": "English Toy Spaniel", "score": 22},
+        {"breed": "Havanese", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Pug", "score": 30},
+        {"breed": "Coton de Tulear", "score": 32}
+      ]
+    },
+    "intelligent and quick to learn": {
+      "most_similar_breeds": [
+        {"breed": "Border Collie", "score": 96},
+        {"breed": "German Shepherd", "score": 95},
+        {"breed": "Belgian Malinois", "score": 94},
+        {"breed": "Belgian Tervuren", "score": 93},
+        {"breed": "Belgian Sheepdog", "score": 92},
+        {"breed": "Poodle", "score": 90},
+        {"breed": "Toy Poodle", "score": 88},
+        {"breed": "Doberman Pinscher", "score": 87},
+        {"breed": "Australian Shepherd", "score": 85},
+        {"breed": "Labrador Retriever", "score": 83}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Bloodhound", "score": 15},
+        {"breed": "Basset Hound", "score": 18},
+        {"breed": "Bulldog", "score": 20},
+        {"breed": "English Bulldog", "score": 22},
+        {"breed": "French Bulldog", "score": 25},
+        {"breed": "Shih Tzu", "score": 30},
+        {"breed": "Pug", "score": 32},
+        {"breed": "Chow Chow", "score": 35},
+        {"breed": "Afghan Hound", "score": 38},
+        {"breed": "Basenji", "score": 40}
+      ]
+    },
+    "mischievous and playful": {
+      "most_similar_breeds": [
+        {"breed": "Boxer", "score": 96},
+        {"breed": "Bull Terrier", "score": 95},
+        {"breed": "Beagle", "score": 94},
+        {"breed": "Pug", "score": 93},
+        {"breed": "Papillon", "score": 92},
+        {"breed": "Whippet", "score": 90},
+        {"breed": "Brittany Spaniel", "score": 88},
+        {"breed": "English Springer Spaniel", "score": 87},
+        {"breed": "Soft Coated Wheaten Terrier", "score": 85},
+        {"breed": "Labrador Retriever", "score": 83}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Tibetan Mastiff", "score": 10},
+        {"breed": "Saint Bernard", "score": 12},
+        {"breed": "Newfoundland", "score": 15},
+        {"breed": "Bulldog", "score": 18},
+        {"breed": "Basset Hound", "score": 20},
+        {"breed": "Great Dane", "score": 22},
+        {"breed": "Irish Wolfhound", "score": 25},
+        {"breed": "Chow Chow", "score": 30},
+        {"breed": "Akita", "score": 32},
+        {"breed": "Chinese Shar-Pei", "score": 35}
+      ]
+    },
+    "persistent and determined": {
+      "most_similar_breeds": [
+        {"breed": "Bloodhound", "score": 97},
+        {"breed": "Border Collie", "score": 96},
+        {"breed": "German Shepherd", "score": 95},
+        {"breed": "Belgian Malinois", "score": 94},
+        {"breed": "Belgian Tervuren", "score": 93},
+        {"breed": "Belgian Sheepdog", "score": 92},
+        {"breed": "Australian Shepherd", "score": 90},
+        {"breed": "Australian Cattle Dog", "score": 88},
+        {"breed": "German Shorthaired Pointer", "score": 87},
+        {"breed": "Wirehaired Pointing Griffon", "score": 85}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Cavalier King Charles Spaniel", "score": 10},
+        {"breed": "Shih Tzu", "score": 12},
+        {"breed": "Vizsla", "score": 15},
+        {"breed": "Chinese Crested", "score": 18},
+        {"breed": "Löwchen", "score": 20},
+        {"breed": "English Toy Spaniel", "score": 22},
+        {"breed": "Havanese", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Pug", "score": 30},
+        {"breed": "Coton de Tulear", "score": 32}
+      ]
+    },
+    "sensitive to criticism": {
+      "most_similar_breeds": [
+        {"breed": "Vizsla", "score": 85},
+        {"breed": "Cavalier King Charles Spaniel", "score": 75},
+        {"breed": "Soft Coated Wheaten Terrier", "score": 70},
+        {"breed": "Golden Retriever", "score": 65},
+        {"breed": "Labrador Retriever", "score": 60},
+        {"breed": "Bichon Frise", "score": 55},
+        {"breed": "Maltese", "score": 50},
+        {"breed": "Poodle", "score": 48},
+        {"breed": "Toy Poodle", "score": 45},
+        {"breed": "Havanese", "score": 43}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Rottweiler", "score": 10},
+        {"breed": "Doberman Pinscher", "score": 12},
+        {"breed": "German Shepherd", "score": 15},
+        {"breed": "Akita", "score": 18},
+        {"breed": "Shiba Inu", "score": 20},
+        {"breed": "Alaskan Malamute", "score": 22},
+        {"breed": "Siberian Husky", "score": 25},
+        {"breed": "Rhodesian Ridgeback", "score": 30},
+        {"breed": "Bull Terrier", "score": 32},
+        {"breed": "Staffordshire Bull Terrier", "score": 35}
+      ]
+    },
+    "stubborn and strong-willed": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 97},
+        {"breed": "Siberian Husky", "score": 96},
+        {"breed": "Alaskan Malamute", "score": 95},
+        {"breed": "Akita", "score": 93},
+        {"breed": "Afghan Hound", "score": 92},
+        {"breed": "Scottish Terrier", "score": 90},
+        {"breed": "Chow Chow", "score": 88},
+        {"breed": "Basenji", "score": 87},
+        {"breed": "Kerry Blue Terrier", "score": 85},
+        {"breed": "Beagle", "score": 83}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 15},
+        {"breed": "Labrador Retriever", "score": 20},
+        {"breed": "Cavalier King Charles Spaniel", "score": 22},
+        {"breed": "Bichon Frise", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Poodle", "score": 30},
+        {"breed": "Toy Poodle", "score": 32},
+        {"breed": "Havanese", "score": 35},
+        {"breed": "Shih Tzu", "score": 38},
+        {"breed": "Pug", "score": 40}
+      ]
+    },
+	"submissive to authority": {
+      "most_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 80},
+        {"breed": "Labrador Retriever", "score": 78},
+        {"breed": "Cavalier King Charles Spaniel", "score": 75},
+        {"breed": "Basset Hound", "score": 73},
+        {"breed": "Bulldog", "score": 70},
+        {"breed": "Irish Wolfhound", "score": 68},
+        {"breed": "Newfoundland", "score": 65},
+        {"breed": "Saint Bernard", "score": 63},
+        {"breed": "Bernese Mountain Dog", "score": 60},
+        {"breed": "Greater Swiss Mountain Dog", "score": 58}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 10},
+        {"breed": "Akita", "score": 12},
+        {"breed": "Afghan Hound", "score": 15},
+        {"breed": "Basenji", "score": 18},
+        {"breed": "Chow Chow", "score": 20},
+        {"breed": "Rhodesian Ridgeback", "score": 22},
+        {"breed": "German Shepherd", "score": 25},
+        {"breed": "Rottweiler", "score": 28},
+        {"breed": "Doberman Pinscher", "score": 30},
+        {"breed": "Siberian Husky", "score": 32}
+      ]
+    },
+    "territorial and protective": {
+      "most_similar_breeds": [
+        {"breed": "Tibetan Mastiff", "score": 98},
+        {"breed": "Akita", "score": 97},
+        {"breed": "Rottweiler", "score": 96},
+        {"breed": "Doberman Pinscher", "score": 95},
+        {"breed": "German Shepherd", "score": 94},
+        {"breed": "Belgian Malinois", "score": 93},
+        {"breed": "Belgian Tervuren", "score": 92},
+        {"breed": "Belgian Sheepdog", "score": 90},
+        {"breed": "Great Pyrenees", "score": 88},
+        {"breed": "Briard", "score": 87}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 15},
+        {"breed": "Labrador Retriever", "score": 20},
+        {"breed": "Cavalier King Charles Spaniel", "score": 22},
+        {"breed": "Bichon Frise", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Poodle", "score": 30},
+        {"breed": "Toy Poodle", "score": 32},
+        {"breed": "Havanese", "score": 35},
+        {"breed": "Shih Tzu", "score": 38},
+        {"breed": "Pug", "score": 40}
+      ]
+    },
+    "timid and shy": {
+      "most_similar_breeds": [
+        {"breed": "Chihuahua", "score": 70},
+        {"breed": "Italian Greyhound", "score": 65},
+        {"breed": "Miniature Pinscher", "score": 60},
+        {"breed": "Yorkshire Terrier", "score": 55},
+        {"breed": "Brussels Griffon", "score": 50},
+        {"breed": "Japanese Chin", "score": 48},
+        {"breed": "Toy Fox Terrier", "score": 45},
+        {"breed": "Silky Terrier", "score": 43},
+        {"breed": "Pomeranian", "score": 40},
+        {"breed": "Toy Poodle", "score": 38}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Rottweiler", "score": 10},
+        {"breed": "Doberman Pinscher", "score": 12},
+        {"breed": "German Shepherd", "score": 15},
+        {"breed": "Akita", "score": 18},
+        {"breed": "Shiba Inu", "score": 20},
+        {"breed": "Alaskan Malamute", "score": 22},
+        {"breed": "Siberian Husky", "score": 25},
+        {"breed": "Rhodesian Ridgeback", "score": 30},
+        {"breed": "Bull Terrier", "score": 32},
+        {"breed": "Staffordshire Bull Terrier", "score": 35}
+      ]
+    },
+    "vigilant and alert": {
+      "most_similar_breeds": [
+        {"breed": "German Shepherd", "score": 96},
+        {"breed": "Doberman Pinscher", "score": 95},
+        {"breed": "Rottweiler", "score": 94},
+        {"breed": "Belgian Malinois", "score": 93},
+        {"breed": "Belgian Tervuren", "score": 92},
+        {"breed": "Belgian Sheepdog", "score": 90},
+        {"breed": "Miniature Schnauzer", "score": 88},
+        {"breed": "Standard Schnauzer", "score": 87},
+        {"breed": "Giant Schnauzer", "score": 85},
+        {"breed": "Akita", "score": 83}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Newfoundland", "score": 10},
+        {"breed": "Saint Bernard", "score": 12},
+        {"breed": "Basset Hound", "score": 15},
+        {"breed": "Bulldog", "score": 18},
+        {"breed": "Irish Wolfhound", "score": 20},
+        {"breed": "Great Dane", "score": 22},
+        {"breed": "Bernese Mountain Dog", "score": 25},
+        {"breed": "Cavalier King Charles Spaniel", "score": 30},
+        {"breed": "Shih Tzu", "score": 32},
+        {"breed": "Pug", "score": 35}
+      ]
+    },
+    "willful and determined": {
+      "most_similar_breeds": [
+        {"breed": "Shiba Inu", "score": 96},
+        {"breed": "Siberian Husky", "score": 95},
+        {"breed": "Alaskan Malamute", "score": 94},
+        {"breed": "Akita", "score": 92},
+        {"breed": "Afghan Hound", "score": 90},
+        {"breed": "Scottish Terrier", "score": 88},
+        {"breed": "Chow Chow", "score": 87},
+        {"breed": "Basenji", "score": 85},
+        {"breed": "Kerry Blue Terrier", "score": 83},
+        {"breed": "Beagle", "score": 80}
+      ],
+      "least_similar_breeds": [
+        {"breed": "Golden Retriever", "score": 15},
+        {"breed": "Labrador Retriever", "score": 20},
+        {"breed": "Cavalier King Charles Spaniel", "score": 22},
+        {"breed": "Bichon Frise", "score": 25},
+        {"breed": "Maltese", "score": 28},
+        {"breed": "Poodle", "score": 30},
+        {"breed": "Toy Poodle", "score": 32},
+        {"breed": "Havanese", "score": 35},
+        {"breed": "Shih Tzu", "score": 38},
+        {"breed": "Pug", "score": 40}
+      ]
+    }
+  }
+}
